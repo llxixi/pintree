@@ -20,294 +20,1483 @@
       },
       {
         "type": "folder",
-        "addDate": 1639115104060,
-        "title": "OE",
+        "addDate": 1694503512376,
+        "title": "运维",
         "children": [
           {
             "type": "folder",
-            "addDate": 1625799594189,
-            "title": "GO",
+            "addDate": 1698202916211,
+            "title": "xxJob - CN",
             "children": [
               {
                 "type": "link",
-                "addDate": 1550209762000,
-                "title": "Go-kit 微服务入门指南 - 简书",
-                "icon": "https://logo.clearbit.com/www.jianshu.com",
-                "url": "https://www.jianshu.com/p/cffe039fa060"
-              },
-              {
-                "type": "link",
-                "addDate": 1546873262000,
-                "title": "国内go get golang.org..失败的问题 - ak47000gb的博客 - CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/ak47000gb/article/details/79561358"
-              },
-              {
-                "type": "link",
-                "addDate": 1546873407000,
-                "title": "Golang modules 初探-梦朝思夕-51CTO博客",
-                "icon": "https://logo.clearbit.com/blog.51cto.com",
-                "url": "http://blog.51cto.com/qiangmzsx/2164520?source=dra"
-              },
-              {
-                "type": "link",
-                "addDate": 1546877149000,
-                "title": "Go开发环境设置,包含第三方包下载使用技巧 - JieLinDee的专栏 - CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/fyxichen/article/details/78636398"
-              },
-              {
-                "type": "link",
-                "addDate": 1546878129000,
-                "title": "在go modules中使用replace替换无法直接获取的package（golang.org/x/...） - apocelipes - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/apocelipes/archive/2018/09/08/9609895.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1546878752000,
-                "title": "用 golang 1.11 module 做项目版本管理 - 简书",
-                "icon": "https://logo.clearbit.com/www.jianshu.com",
-                "url": "https://www.jianshu.com/p/c5733da150c6"
-              },
-              {
-                "type": "link",
-                "addDate": 1618558725388,
-                "title": "GitHub - qiualiang/gof: 23 design patterns of GoF",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/qiualiang/gof"
-              },
-              {
-                "type": "link",
-                "addDate": 1618558749522,
-                "title": "GitHub - jobbole/awesome-go-cn: Go 资源大全中文版， 内容包括：Web框架、模板引擎、表单、身份认证、数据库、ORM框架、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析、教程和（电子）书等。由「开源前哨」和「Go开发大全」微信团队维护。",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/jobbole/awesome-go-cn"
-              },
-              {
-                "type": "folder",
-                "addDate": 1625799594192,
-                "title": "Job",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1618561011083,
-                    "title": "GitHub - bamzi/jobrunner: Framework for performing work asynchronously, outside of the request flow",
-                    "icon": "https://logo.clearbit.com/github.com",
-                    "url": "https://github.com/bamzi/jobrunner"
-                  }
-                ]
-              },
-              {
-                "type": "folder",
-                "addDate": 1625799594192,
-                "title": "office",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1618561117963,
-                    "title": "GitHub - unidoc/unioffice: Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents",
-                    "icon": "https://logo.clearbit.com/github.com",
-                    "url": "https://github.com/unidoc/unioffice"
-                  }
-                ]
-              },
-              {
-                "type": "folder",
-                "addDate": 1625799594192,
-                "title": "string",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1618561287286,
-                    "title": "GitHub - gobeam/stringy: Convert string to camel case, snake case, kebab case / slugify, custom delimiter, pad string, tease string and many other functionalities with help of by Stringy package.",
-                    "icon": "https://logo.clearbit.com/github.com",
-                    "url": "https://github.com/gobeam/Stringy"
-                  }
-                ]
-              },
-              {
-                "type": "folder",
-                "addDate": 1625799594192,
-                "title": "爬虫",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1618561517308,
-                    "title": "快速入门 · antchfx/antch Wiki · GitHub",
-                    "icon": "https://logo.clearbit.com/github.com",
-                    "url": "https://github.com/antchfx/antch/wiki/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8"
-                  }
-                ]
-              },
-              {
-                "type": "link",
-                "addDate": 1619315530130,
-                "title": "Go - go - go/ast（抽象语法树） - 开发者手册 - 云+社区 - 腾讯云",
-                "icon": "https://logo.clearbit.com/cloud.tencent.com",
-                "url": "https://cloud.tencent.com/developer/doc/1101"
-              },
-              {
-                "type": "link",
-                "addDate": 1622436254660,
-                "title": "Golang标准库中文文档",
-                "icon": "https://logo.clearbit.com/doc.golang.ltd",
-                "url": "http://doc.golang.ltd/"
+                "addDate": 1693791198011,
+                "title": "XXL JOB ADMIN",
+                "icon": "https://logo.clearbit.com/admin-oe-job.ebz-chn-prod.mkaws.com",
+                "url": "https://admin-oe-job.ebz-chn-prod.mkaws.com/xxl-job-admin/toLogin"
               }
             ]
           },
           {
             "type": "folder",
-            "addDate": 1650346922636,
-            "title": "网络",
+            "addDate": 1698202932391,
+            "title": "jekins - CN",
             "children": [
               {
                 "type": "link",
-                "addDate": 1698050595322,
-                "title": "HTTP 状态码：完整列表",
-                "icon": "https://logo.clearbit.com/ahrefs.com",
-                "url": "https://ahrefs.com/blog/zh/http-status-codes/"
+                "addDate": 1669776483022,
+                "title": "Jenkins-old",
+                "icon": "https://logo.clearbit.com/10.216.202.18",
+                "url": "http://10.216.202.18/login?from=/job/OE/job/DEV/job/Build_CustomerService/"
               },
               {
                 "type": "link",
-                "addDate": 1597833525731,
-                "title": "Process CORS Request Assertion",
-                "icon": "https://logo.clearbit.com/techdocs.broadcom.com",
-                "url": "https://techdocs.broadcom.com/content/broadcom/techdocs/us/en/ca-enterprise-software/layer7-api-management/api-gateway/10-0/policy-assertions/assertion-palette/access-control-assertions/process-cors-request-assertion.html#concept.dita_b2bd3269b77dae921baebcdc736012b76c0f628a_ContextVariables"
+                "addDate": 1669776515200,
+                "title": "All [OE] [Jenkins] - new",
+                "icon": "https://logo.clearbit.com/jenkins2.cn-north-1.mkdeploy.io",
+                "url": "http://jenkins2.cn-north-1.mkdeploy.io/job/OE/"
               },
               {
                 "type": "link",
-                "addDate": 1650346905399,
-                "title": "图解 | 原来这就是网络 - 闪客sun - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/flashsun/p/14266148.html"
+                "addDate": 1698202291996,
+                "title": "Sqs-Purge-Queue [Platform » Operations] [Jenkins]",
+                "icon": "https://logo.clearbit.com/10.216.202.18",
+                "url": "http://10.216.202.18/job/Platform/job/Operations/job/Sqs-Purge-Queue/"
+              },
+              {
+                "type": "link",
+                "addDate": 1623393334116,
+                "title": "jobexecutor 重启",
+                "icon": "https://logo.clearbit.com/jenkins2.cn-north-1.mkdeploy.io",
+                "url": "http://jenkins2.cn-north-1.mkdeploy.io/job/Devops/job/Restart_jobexecutor_EC2/build?delay=0sec"
+              },
+              {
+                "type": "link",
+                "addDate": 1719898564208,
+                "title": "OE_CD [OE] [Jenkins]",
+                "icon": "https://logo.clearbit.com/jenkins-chn.prod.eks.mkapps.com",
+                "url": "https://jenkins-chn.prod.eks.mkapps.com/job/OE/job/OE_CD/"
+              },
+              {
+                "type": "link",
+                "addDate": 1698893845702,
+                "title": "Jenkins EKS - Restart Pod",
+                "icon": "https://logo.clearbit.com/jenkins-chn.prod.eks.mkapps.com",
+                "url": "https://jenkins-chn.prod.eks.mkapps.com/job/DevOps/job/Tools/job/%E9%87%8D%E5%90%AFPOD/build?delay=0sec"
               }
             ]
           },
           {
             "type": "folder",
-            "addDate": 1673336772550,
-            "title": "JAVA",
+            "addDate": 1701397687443,
+            "title": "prometheus",
             "children": [
               {
                 "type": "link",
-                "addDate": 1670298624349,
-                "title": "Java 案例和调优-知识类",
-                "icon": "https://logo.clearbit.com/www.pomit.cn",
-                "url": "http://www.pomit.cn/trial/logic.html"
+                "addDate": 1701397664272,
+                "title": "Overview | Prometheus",
+                "icon": "https://logo.clearbit.com/prometheus.io",
+                "url": "https://prometheus.io/docs/introduction/overview/"
               },
               {
                 "type": "link",
-                "addDate": 1673336750703,
-                "title": "Java 优质开源技术教程 | JavaGuide(Java面试+学习指南)",
-                "icon": "https://logo.clearbit.com/javaguide.cn",
-                "url": "https://javaguide.cn/open-source-project/tutorial.html"
+                "addDate": 1701397690981,
+                "title": "Grafana documentation | Grafana documentation",
+                "icon": "https://logo.clearbit.com/grafana.com",
+                "url": "https://grafana.com/docs/grafana/v10.1/"
               },
               {
                 "type": "link",
-                "addDate": 1694503485078,
-                "title": "\"地瓜哥\"博客网",
-                "icon": "https://logo.clearbit.com/www.diguage.com",
-                "url": "https://www.diguage.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1694505233854,
-                "title": "面向对象的五大基本原则",
-                "icon": "https://logo.clearbit.com/hollischuang.gitee.io",
-                "url": "https://hollischuang.gitee.io/tobetopjavaer/#/basics/object-oriented/principle?id=%e9%87%8c%e6%b0%8f%e6%9b%bf%e6%8d%a2%e5%8e%9f%e5%88%99%ef%bc%88liskov-substitution-principle%ef%bc%89"
-              },
-              {
-                "type": "link",
-                "addDate": 1694505249845,
-                "title": "Java工程师成神之路",
-                "icon": "https://logo.clearbit.com/hollischuang.gitee.io",
-                "url": "https://hollischuang.gitee.io/tobetopjavaer/#/"
-              },
-              {
-                "type": "link",
-                "addDate": 1694513255694,
-                "title": "F# (Mono) – 在线代码执行 | 1人1个沙箱竞技场 | Try It Online",
-                "icon": "https://logo.clearbit.com/tio.1r1g.com",
-                "url": "https://tio.1r1g.com/##SyvWzc3Py///v6AoM68kLU9BySM1JydfRyE8vygnRVHp/38A"
-              },
-              {
-                "type": "link",
-                "addDate": 1702226079541,
-                "title": "Java中JDK8、JDK11、JDK17，该怎么选择？-腾讯云开发者社区-腾讯云",
-                "icon": "https://logo.clearbit.com/cloud.tencent.com",
-                "url": "https://cloud.tencent.com/developer/article/1977236"
-              },
-              {
-                "type": "link",
-                "addDate": 1715614569018,
-                "title": "Case Study: Relational Database Source and File Sink",
-                "icon": "https://logo.clearbit.com/spring.io",
-                "url": "https://spring.io/blog/2020/09/10/case-study-relational-database-source-and-file-sink"
-              },
-              {
-                "type": "link",
-                "addDate": 1717722658277,
-                "title": "在被线上大量日志输出导致性能瓶颈毒打了很多次之后总结出的经验-腾讯云开发者社区-腾讯云",
-                "icon": "https://logo.clearbit.com/cloud.tencent.com",
-                "url": "https://cloud.tencent.com/developer/article/1927375"
-              },
-              {
-                "type": "link",
-                "addDate": 1717723078175,
-                "title": "为何把日志打印到控制台很慢？ - 颇忒脱的技术博客",
-                "icon": "https://logo.clearbit.com/chanjarster.github.io",
-                "url": "https://chanjarster.github.io/post/is-logging-to-console-slow/"
-              },
-              {
-                "type": "link",
-                "addDate": 1717723253261,
-                "title": "容器打印日志到控制台阻塞的排障 - 颇忒脱的技术博客",
-                "icon": "https://logo.clearbit.com/chanjarster.github.io",
-                "url": "https://chanjarster.github.io/post/docker-console-logging-hangs/"
-              },
-              {
-                "type": "link",
-                "addDate": 1717723772357,
-                "title": "python - Why is printing to stdout so slow? Can it be sped up? - Stack Overflow",
-                "icon": "https://logo.clearbit.com/stackoverflow.com",
-                "url": "https://stackoverflow.com/questions/3857052/why-is-printing-to-stdout-so-slow-can-it-be-sped-up"
-              },
-              {
-                "type": "link",
-                "addDate": 1717734791427,
-                "title": "[LOG4J2-2239] Deadlock in log4j 2.10.0 - ASF JIRA",
-                "icon": "https://logo.clearbit.com/issues.apache.org",
-                "url": "https://issues.apache.org/jira/browse/LOG4J2-2239"
-              },
-              {
-                "type": "link",
-                "addDate": 1717734799364,
-                "title": "[LOGBACK-1422] Deadlock with logging - QOS.ch JIRA",
-                "icon": "https://logo.clearbit.com/jira.qos.ch",
-                "url": "https://jira.qos.ch/browse/LOGBACK-1422"
-              },
-              {
-                "type": "link",
-                "addDate": 1723186024613,
-                "title": "Java Platform JDK 下载",
-                "icon": "https://logo.clearbit.com/jdk.java.net",
-                "url": "https://jdk.java.net/java-se-ri/17-MR1"
-              },
-              {
-                "type": "link",
-                "addDate": 1723445045441,
-                "title": "",
-                "icon": "https://logo.clearbit.com/gateway-skywalking.uat.bts-eks-internal-apr.mkapps.com",
-                "url": "https://gateway-skywalking.uat.bts-eks-internal-apr.mkapps.com/"
+                "addDate": 1701397737659,
+                "title": "Not found - Dashboards - Grafana",
+                "icon": "https://logo.clearbit.com/grafana.bts-eks-internal-chn.mkiapp.com",
+                "url": "https://grafana.bts-eks-internal-chn.mkiapp.com/d/Pwq1MJtdvnez1/k8s-for-prometheus-uat-dashboard?orgId=1&var-ClusterName=cn-north-1-ebiz-eks-uat-1&var-origin_prometheus=&var-Node=All&var-NameSpace=oe&var-Container=All&var-Pod=All&from=1697189225188&to=1697191025188"
               }
             ]
           },
+          {
+            "type": "folder",
+            "addDate": 1727235328035,
+            "title": "jekins - AP",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1727235292152,
+                "title": "Dashboard [Jenkins]",
+                "icon": "https://logo.clearbit.com/jenkins-apr.prod.eks.mkapps.com",
+                "url": "https://jenkins-apr.prod.eks.mkapps.com/"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1600338236618,
+            "title": "Content CMS",
+            "icon": "https://logo.clearbit.com/contentcms.marykaytools.cn",
+            "url": "https://contentcms.marykaytools.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1612338452508,
+            "title": "官网 - QA环境",
+            "icon": "https://logo.clearbit.com/qa-site.marykay.com.cn",
+            "url": "https://qa-site.marykay.com.cn/corporatesite/home/products/10156557"
+          },
+          {
+            "type": "link",
+            "addDate": 1653014228803,
+            "title": "My Apps",
+            "icon": "https://logo.clearbit.com/myapplications.microsoft.com",
+            "url": "https://myapplications.microsoft.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1631502182615,
+            "title": "Azure source code Projects - Home",
+            "icon": "https://logo.clearbit.com/dev.azure.com",
+            "url": "https://dev.azure.com/marykayapac/"
+          },
+          {
+            "type": "link",
+            "addDate": 1597306126135,
+            "title": "调休文档",
+            "icon": "https://logo.clearbit.com/mkcorp.sharepoint.com",
+            "url": "https://mkcorp.sharepoint.com/sites/mkc_IT/sam/Team%20Sharing/Forms/AllItems.aspx?RootFolder=%2Fsites%2Fmkc%5FIT%2Fsam%2FTeam%20Sharing%2FTeam%20Management&FolderCTID=0x0120007BA714F0A0A13A44B11B544DD916B609&View=%7B352AD8EF%2DE82E%2D4636%2D9042%2DB965ED90EC80%7D"
+          },
+          {
+            "type": "link",
+            "addDate": 1599647079831,
+            "title": "China E-Comm Release Documents - All Documents",
+            "icon": "https://logo.clearbit.com/mkcorp.sharepoint.com",
+            "url": "https://mkcorp.sharepoint.com/sites/co-usa-ist-TMEBZbusinessapplicationssupport/Release%20Notes/Forms/AllItems.aspx?viewid=5243cbef-d8ae-4073-b19b-83685bea6d2e&id=%2Fsites%2Fco-usa-ist-TMEBZbusinessapplicationssupport%2FRelease%20Notes%2FChina%20E-Comm%20Release%20Documents"
+          },
+          {
+            "type": "link",
+            "addDate": 1710326662156,
+            "title": "海淘配置&运维 · Thoughts",
+            "icon": "https://logo.clearbit.com/thoughts.teambition.com",
+            "url": "https://thoughts.teambition.com/workspaces/5cdcc5e9df0cc1000126c578/docs/64b9fdcb2dc2990001cf8f91#64c35c4267f07a00128614cb"
+          },
+          {
+            "type": "link",
+            "addDate": 1679290229224,
+            "title": "Ecommerce Team - Project - 所有文档",
+            "icon": "https://logo.clearbit.com/mkcorp.sharepoint.com",
+            "url": "https://mkcorp.sharepoint.com/sites/-ecommerceteam/Shared%20Documents/Forms/AllItems.aspx?viewpath=%2Fsites%2F%2Decommerceteam%2FShared%20Documents%2FForms%2FAllItems%2Easpx&id=%2Fsites%2F%2Decommerceteam%2FShared%20Documents%2FProject&sortField=LinkFilename&isAscending=true&viewid=925ee332%2D4d4f%2D4ffa%2D980a%2Dd69c7edbfcbf"
+          },
+          {
+            "type": "link",
+            "addDate": 1674713346928,
+            "title": "marykay-ism.ivanticloud.com:Change Saved Search: Active Changes",
+            "icon": "https://logo.clearbit.com/marykay-ism.ivanticloud.com",
+            "url": "https://marykay-ism.ivanticloud.com/Default.aspx#1674713346706"
+          },
+          {
+            "type": "link",
+            "addDate": 1666953641683,
+            "title": "MaryKay CN Bastion Server",
+            "icon": "https://logo.clearbit.com/web-bastion.chn.mkcorp.com",
+            "url": "https://web-bastion.chn.mkcorp.com/core/auth/login/"
+          },
+          {
+            "type": "link",
+            "addDate": 1648808997494,
+            "title": "敏感词后台",
+            "icon": "https://logo.clearbit.com/support.marykayintouch.com.cn",
+            "url": "https://support.marykayintouch.com.cn/admin/login"
+          },
+          {
+            "type": "link",
+            "addDate": 1600338220323,
+            "title": "Content CMS",
+            "icon": "https://logo.clearbit.com/contentcms.marykaytools.cn",
+            "url": "https://contentcms.marykaytools.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1623899465573,
+            "title": "MKNuget",
+            "icon": "https://logo.clearbit.com/mknuget.mkcorp.com",
+            "url": "http://mknuget.mkcorp.com/feeds/MaryKayGlobal"
+          },
+          {
+            "type": "link",
+            "addDate": 1623746647303,
+            "title": "My Apps",
+            "icon": "https://logo.clearbit.com/myapplications.microsoft.com",
+            "url": "https://myapplications.microsoft.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1640847736596,
+            "title": "Lumos | Login",
+            "icon": "https://logo.clearbit.com/lumos.cn-north-1.mkdeploy.io",
+            "url": "http://lumos.cn-north-1.mkdeploy.io:8080/login;jsessionid=722921DB4B34D24FA57D527C1D9796B4"
+          },
+          {
+            "type": "link",
+            "addDate": 1609393246069,
+            "title": "Bastion Server user guide - Self-Service - Confluence",
+            "icon": "https://logo.clearbit.com/wiki.chn.mkcorp.com",
+            "url": "https://wiki.chn.mkcorp.com/display/SEL/Bastion+Server+user+guide"
+          },
+          {
+            "type": "link",
+            "addDate": 1599646981192,
+            "title": "Business Applications Support - China E-Comm Release Documents - 所有文档",
+            "icon": "https://logo.clearbit.com/mkcorp.sharepoint.com",
+            "url": "https://mkcorp.sharepoint.com/sites/co-usa-ist-TMEBZbusinessapplicationssupport/Release%20Notes/Forms/AllItems.aspx?viewid=5243cbef-d8ae-4073-b19b-83685bea6d2e&id=%2Fsites%2Fco-usa-ist-TMEBZbusinessapplicationssupport%2FRelease%20Notes%2FChina%20E-Comm%20Release%20Documents"
+          },
+          {
+            "type": "link",
+            "addDate": 1608884027088,
+            "title": "SAM OE OO&CorpSite - AWS Enablement Wiki - Confluence",
+            "icon": "https://logo.clearbit.com/wiki.chn.mkcorp.com",
+            "url": "https://wiki.chn.mkcorp.com/pages/viewpage.action?pageId=8913115"
+          },
+          {
+            "type": "link",
+            "addDate": 1575022821067,
+            "title": "AWS UAT ebizOEawscnuat Upgrade and Downgrade - Self-Service - Confluence",
+            "icon": "https://logo.clearbit.com/wiki.chn.mkcorp.com",
+            "url": "http://wiki.chn.mkcorp.com/display/SEL/AWS+UAT+ebizOEawscnuat+Upgrade+and+Downgrade"
+          },
+          {
+            "type": "link",
+            "addDate": 1698202841143,
+            "title": "YApi-高效、易用、功能强大的可视化接口管理平台",
+            "icon": "https://logo.clearbit.com/mock-api.mkwap.cn",
+            "url": "https://mock-api.mkwap.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1699328323576,
+            "title": "dev.azure.com",
+            "icon": "https://logo.clearbit.com/dev.azure.com",
+            "url": "https://dev.azure.com/marykayapac/e-commerce-platforms/_git/platform-xxl-job"
+          },
+          {
+            "type": "link",
+            "addDate": 1703040351101,
+            "title": "chromedriver.storage.googleapis.com/index.html",
+            "icon": "https://logo.clearbit.com/chromedriver.storage.googleapis.com",
+            "url": "https://chromedriver.storage.googleapis.com/index.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1703040368795,
+            "title": "Chrome for Testing availability",
+            "icon": "https://logo.clearbit.com/googlechromelabs.github.io",
+            "url": "https://googlechromelabs.github.io/chrome-for-testing/#stable"
+          },
+          {
+            "type": "link",
+            "addDate": 1703490222204,
+            "title": "GitHub - alibabacloud-observability/skywalking-demo: 链路追踪Skywalking上报数据的demo",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/alibabacloud-observability/skywalking-demo"
+          },
+          {
+            "type": "link",
+            "addDate": 1721726831755,
+            "title": "Apollo配置中心",
+            "icon": "https://logo.clearbit.com/platfrom-apollo-portal.prod.oe-eks-internal-chn.mkiapp.com",
+            "url": "https://platfrom-apollo-portal.prod.oe-eks-internal-chn.mkiapp.com/marykay/login.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1721727182653,
+            "title": "Apollo配置中心 - CN",
+            "icon": "https://logo.clearbit.com/platfrom-apollo-portal.prod.oe-eks-internal-chn.mkiapp.com",
+            "url": "https://platfrom-apollo-portal.prod.oe-eks-internal-chn.mkiapp.com/config.html?#/appid=OE-App-OrderingServices"
+          },
+          {
+            "type": "link",
+            "addDate": 1721727546850,
+            "title": "Dashboards - Grafana - AP",
+            "icon": "https://logo.clearbit.com/grafana.bts-eks-internal-apr.mkapps.com",
+            "url": "https://grafana.bts-eks-internal-apr.mkapps.com/dashboards"
+          },
+          {
+            "type": "link",
+            "addDate": 1724810304895,
+            "title": "MaryKayGlobal",
+            "icon": "https://logo.clearbit.com/mknuget.mkapps.com",
+            "url": "https://mknuget.mkapps.com/feeds/MaryKayGlobal"
+          },
+          {
+            "type": "link",
+            "addDate": 1724988320645,
+            "title": "JoyCoder - 京东推出的AI编程助手 | AI工具集",
+            "icon": "https://logo.clearbit.com/ai-bot.cn",
+            "url": "https://ai-bot.cn/joycoder/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727193640690,
+            "title": "splunkcloud scripted dashboard generation",
+            "icon": "https://logo.clearbit.com/gist.github.com",
+            "url": "https://gist.github.com/6d61726b760a/1f7e84d73deaddba092e0ad61beddcce"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1625799594189,
+        "title": "GO",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1546403382000,
+            "title": "GitHub - gostor/awesome-go-storage: A curated list of awesome Go storage projects and libraries",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/gostor/awesome-go-storage#file-system"
+          },
+          {
+            "type": "link",
+            "addDate": 1550209762000,
+            "title": "Go-kit 微服务入门指南 - 简书",
+            "icon": "https://logo.clearbit.com/www.jianshu.com",
+            "url": "https://www.jianshu.com/p/cffe039fa060"
+          },
+          {
+            "type": "link",
+            "addDate": 1546873262000,
+            "title": "国内go get golang.org..失败的问题 - ak47000gb的博客 - CSDN博客",
+            "icon": "https://logo.clearbit.com/blog.csdn.net",
+            "url": "https://blog.csdn.net/ak47000gb/article/details/79561358"
+          },
+          {
+            "type": "link",
+            "addDate": 1546873407000,
+            "title": "Golang modules 初探-梦朝思夕-51CTO博客",
+            "icon": "https://logo.clearbit.com/blog.51cto.com",
+            "url": "http://blog.51cto.com/qiangmzsx/2164520?source=dra"
+          },
+          {
+            "type": "link",
+            "addDate": 1546877149000,
+            "title": "Go开发环境设置,包含第三方包下载使用技巧 - JieLinDee的专栏 - CSDN博客",
+            "icon": "https://logo.clearbit.com/blog.csdn.net",
+            "url": "https://blog.csdn.net/fyxichen/article/details/78636398"
+          },
+          {
+            "type": "link",
+            "addDate": 1546878129000,
+            "title": "在go modules中使用replace替换无法直接获取的package（golang.org/x/...） - apocelipes - 博客园",
+            "icon": "https://logo.clearbit.com/www.cnblogs.com",
+            "url": "https://www.cnblogs.com/apocelipes/archive/2018/09/08/9609895.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1546878752000,
+            "title": "用 golang 1.11 module 做项目版本管理 - 简书",
+            "icon": "https://logo.clearbit.com/www.jianshu.com",
+            "url": "https://www.jianshu.com/p/c5733da150c6"
+          },
+          {
+            "type": "link",
+            "addDate": 1618558725388,
+            "title": "GitHub - qiualiang/gof: 23 design patterns of GoF",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/qiualiang/gof"
+          },
+          {
+            "type": "link",
+            "addDate": 1618558749522,
+            "title": "GitHub - jobbole/awesome-go-cn: Go 资源大全中文版， 内容包括：Web框架、模板引擎、表单、身份认证、数据库、ORM框架、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析、教程和（电子）书等。由「开源前哨」和「Go开发大全」微信团队维护。",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/jobbole/awesome-go-cn"
+          },
+          {
+            "type": "folder",
+            "addDate": 1625799594192,
+            "title": "Job",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1618561011083,
+                "title": "GitHub - bamzi/jobrunner: Framework for performing work asynchronously, outside of the request flow",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/bamzi/jobrunner"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1625799594192,
+            "title": "office",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1618561117963,
+                "title": "GitHub - unidoc/unioffice: Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/unidoc/unioffice"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1625799594192,
+            "title": "string",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1618561287286,
+                "title": "GitHub - gobeam/stringy: Convert string to camel case, snake case, kebab case / slugify, custom delimiter, pad string, tease string and many other functionalities with help of by Stringy package.",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/gobeam/Stringy"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1625799594192,
+            "title": "爬虫",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1618561517308,
+                "title": "快速入门 · antchfx/antch Wiki · GitHub",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/antchfx/antch/wiki/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1619315530130,
+            "title": "Go - go - go/ast（抽象语法树） - 开发者手册 - 云+社区 - 腾讯云",
+            "icon": "https://logo.clearbit.com/cloud.tencent.com",
+            "url": "https://cloud.tencent.com/developer/doc/1101"
+          },
+          {
+            "type": "link",
+            "addDate": 1622436254660,
+            "title": "Golang标准库中文文档",
+            "icon": "https://logo.clearbit.com/doc.golang.ltd",
+            "url": "http://doc.golang.ltd/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1625799594193,
+        "title": ".Net Core",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1712715703761,
+            "title": "区域语言与区域语言包对照关系表",
+            "icon": "https://logo.clearbit.com/www.cnblogs.com",
+            "url": "https://www.cnblogs.com/JCL1101/p/8036771.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1712573017699,
+            "title": "dotnet-docker/samples/enable-globalization.md at main · dotnet/dotnet-docker · GitHub",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/dotnet/dotnet-docker/blob/main/samples/enable-globalization.md"
+          },
+          {
+            "type": "link",
+            "addDate": 1712573203012,
+            "title": "EF Core 8: Only the invariant culture is supported in globalization-invariant mode · Issue #2239 · dotnet/SqlClient · GitHub",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/dotnet/SqlClient/issues/2239"
+          },
+          {
+            "type": "link",
+            "addDate": 1712660309274,
+            "title": "dotnet-docker/src/runtime-deps/8.0/alpine3.18/amd64/Dockerfile at 2e4b5915486c96b4e5f7d49b01a767301f661790 · dotnet/dotnet-docker · GitHub",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/dotnet/dotnet-docker/blob/2e4b5915486c96b4e5f7d49b01a767301f661790/src/runtime-deps/8.0/alpine3.18/amd64/Dockerfile"
+          },
+          {
+            "type": "link",
+            "addDate": 1562139266000,
+            "title": "HaiTao Order System Detail Design · Thoughts",
+            "icon": "https://logo.clearbit.com/thoughts.teambition.com",
+            "url": "https://thoughts.teambition.com/workspaces/5cdcc5e9df0cc1000126c578/docs/5cf7af02e1b79f00010932a1"
+          },
+          {
+            "type": "link",
+            "addDate": 1589351087714,
+            "title": "在 ASP.NET Core 中使用 IHttpClientFactory 发出 HTTP 请求 | Microsoft Docs",
+            "icon": "https://logo.clearbit.com/docs.microsoft.com",
+            "url": "https://docs.microsoft.com/zh-cn/aspnet/core/fundamentals/http-requests?view=aspnetcore-2.1"
+          },
+          {
+            "type": "link",
+            "addDate": 1618908641345,
+            "title": "What's next for System.Text.Json? | .NET Blog",
+            "icon": "https://logo.clearbit.com/devblogs.microsoft.com",
+            "url": "https://devblogs.microsoft.com/dotnet/whats-next-for-system-text-json/"
+          },
+          {
+            "type": "link",
+            "addDate": 1618908791375,
+            "title": "从 Newtonsoft.Json 迁移到 System.Text.Json - .NET | Microsoft Docs",
+            "icon": "https://logo.clearbit.com/docs.microsoft.com",
+            "url": "https://docs.microsoft.com/zh-cn/dotnet/standard/serialization/system-text-json-migrate-from-newtonsoft-how-to?pivots=dotnet-5-0"
+          },
+          {
+            "type": "link",
+            "addDate": 1621932320056,
+            "title": "Compare gRPC services with HTTP APIs | Microsoft Docs",
+            "icon": "https://logo.clearbit.com/docs.microsoft.com",
+            "url": "https://docs.microsoft.com/en-us/aspnet/core/gRPC/comparison?view=aspnetcore-3.0"
+          },
+          {
+            "type": "link",
+            "addDate": 1625800261474,
+            "title": "开发人员工具、技术文档和代码示例 | Microsoft Docs",
+            "icon": "https://logo.clearbit.com/docs.microsoft.com",
+            "url": "https://docs.microsoft.com/zh-cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1650422814758,
+            "title": "GitHub - aws-samples/aws-cdk-k8s-dotnet-todo",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/aws-samples/aws-cdk-k8s-dotnet-todo"
+          },
+          {
+            "type": "link",
+            "addDate": 1651728857668,
+            "title": "InCerry - 博客园",
+            "icon": "https://logo.clearbit.com/www.cnblogs.com",
+            "url": "https://www.cnblogs.com/InCerry/"
+          },
+          {
+            "type": "link",
+            "addDate": 1656855631551,
+            "title": ".NET 文档 | Microsoft Docs",
+            "icon": "https://logo.clearbit.com/docs.microsoft.com",
+            "url": "https://docs.microsoft.com/zh-cn/dotnet/fundamentals/"
+          },
+          {
+            "type": "link",
+            "addDate": 1656906698480,
+            "title": "命名准则 - Framework Design Guidelines | Microsoft Docs",
+            "icon": "https://logo.clearbit.com/docs.microsoft.com",
+            "url": "https://docs.microsoft.com/zh-cn/dotnet/standard/design-guidelines/naming-guidelines"
+          },
+          {
+            "type": "link",
+            "addDate": 1657114718404,
+            "title": "Apollo · GitHub",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/apolloconfig"
+          },
+          {
+            "type": "link",
+            "addDate": 1657114729998,
+            "title": "GitHub - apolloconfig/apollo.net: Apollo配置中心.Net客户端",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/apolloconfig/apollo.net"
+          },
+          {
+            "type": "link",
+            "addDate": 1657206363096,
+            "title": "Citrix Workspace",
+            "icon": "https://logo.clearbit.com/citrix.mkcorp.com.cn",
+            "url": "https://citrix.mkcorp.com.cn/Citrix/MaryKayCitrixCNWeb/"
+          },
+          {
+            "type": "link",
+            "addDate": 1669786461989,
+            "title": "Project Jupyter | Home",
+            "icon": "https://logo.clearbit.com/jupyter.org",
+            "url": "http://jupyter.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1676957435399,
+            "title": "NetCore Swagger - blsegirl - 博客园",
+            "icon": "https://logo.clearbit.com/www.cnblogs.com",
+            "url": "https://www.cnblogs.com/blsegirl/p/15892468.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1701181394897,
+            "title": "垃圾回收的基本知识 - .NET | Microsoft Learn",
+            "icon": "https://logo.clearbit.com/learn.microsoft.com",
+            "url": "https://learn.microsoft.com/zh-cn/dotnet/standard/garbage-collection/fundamentals"
+          },
+          {
+            "type": "link",
+            "addDate": 1701182139705,
+            "title": "dotnet-counters 诊断工具 - .NET CLI - .NET | Microsoft Learn",
+            "icon": "https://logo.clearbit.com/learn.microsoft.com",
+            "url": "https://learn.microsoft.com/zh-cn/dotnet/core/diagnostics/dotnet-counters"
+          },
+          {
+            "type": "link",
+            "addDate": 1701182839299,
+            "title": "垃圾回收和性能 - .NET | Microsoft Learn",
+            "icon": "https://logo.clearbit.com/learn.microsoft.com",
+            "url": "https://learn.microsoft.com/zh-cn/dotnet/standard/garbage-collection/performance#IsGC"
+          },
+          {
+            "type": "link",
+            "addDate": 1701340417537,
+            "title": "GitHub - sebastienros/memoryleak",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/sebastienros/memoryleak/tree/master"
+          },
+          {
+            "type": "link",
+            "addDate": 1701743759649,
+            "title": "ASP.NET Core 中的内存管理和模式 | Microsoft Learn",
+            "icon": "https://logo.clearbit.com/learn.microsoft.com",
+            "url": "https://learn.microsoft.com/zh-cn/aspnet/core/performance/memory?view=aspnetcore-8.0"
+          },
+          {
+            "type": "link",
+            "addDate": 1702285653500,
+            "title": "从 ASP.NET Core 2.1 迁移到 2.2 | Microsoft Learn",
+            "icon": "https://logo.clearbit.com/learn.microsoft.com",
+            "url": "https://learn.microsoft.com/zh-cn/aspnet/core/migration/21-to-22?view=aspnetcore-8.0&tabs=visual-studio"
+          },
+          {
+            "type": "link",
+            "addDate": 1713505415817,
+            "title": "Tracing .NET applications with PerfCollect. - .NET | Microsoft Learn",
+            "icon": "https://logo.clearbit.com/learn.microsoft.com",
+            "url": "https://learn.microsoft.com/en-us/dotnet/core/diagnostics/trace-perfcollect-lttng"
+          },
+          {
+            "type": "link",
+            "addDate": 1713508210210,
+            "title": "Collect diagnostics in containers - .NET | Microsoft Learn",
+            "icon": "https://logo.clearbit.com/learn.microsoft.com",
+            "url": "https://learn.microsoft.com/en-us/dotnet/core/diagnostics/diagnostics-in-containers"
+          },
+          {
+            "type": "link",
+            "addDate": 1714093433102,
+            "title": ".Net Core中的诊断日志DiagnosticSource讲解 - yi念之间 - 博客园",
+            "icon": "https://logo.clearbit.com/www.cnblogs.com",
+            "url": "https://www.cnblogs.com/wucy/p/13532534.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1714093450640,
+            "title": "【.NET Core框架】诊断日志（DiagnosticSource） - .Neterr - 博客园",
+            "icon": "https://logo.clearbit.com/www.cnblogs.com",
+            "url": "https://www.cnblogs.com/fanfan-90/p/14507721.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1714093482488,
+            "title": ".NET Core 诊断跟踪：DiagnosticSource - 简书",
+            "icon": "https://logo.clearbit.com/www.jianshu.com",
+            "url": "https://www.jianshu.com/p/a1eb1c0aa1ef"
+          },
+          {
+            "type": "link",
+            "addDate": 1714093509926,
+            "title": "ASP.NET Core 中文文档 第三章 原理（10）依赖注入 - .NET_CORE_COMMUNITY - 博客园",
+            "icon": "https://logo.clearbit.com/www.cnblogs.com",
+            "url": "https://www.cnblogs.com/dotNETCoreSG/p/aspnetcore-3_10-dependency-injection.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1714093515993,
+            "title": "ASP.NETCore 切面编程AOP 详解 - FrankFyy - 博客园",
+            "icon": "https://logo.clearbit.com/www.cnblogs.com",
+            "url": "https://www.cnblogs.com/Fengyinyong/p/13664311.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1714093536495,
+            "title": "asp.net core5 使用Skywalking APM - 沐雪架构师 - 博客园",
+            "icon": "https://logo.clearbit.com/www.cnblogs.com",
+            "url": "https://www.cnblogs.com/puzi0315/p/15597975.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1714093570596,
+            "title": "七、.net core(.NET 6)使用Serilog进行配置和实现日志记录-CSDN博客",
+            "icon": "https://logo.clearbit.com/blog.csdn.net",
+            "url": "https://blog.csdn.net/e_hilary/article/details/118925669"
+          },
+          {
+            "type": "link",
+            "addDate": 1714093581084,
+            "title": "在 ASP.NET Core 中 使用 Serilog - 冠军 - 博客园",
+            "icon": "https://logo.clearbit.com/www.cnblogs.com",
+            "url": "https://www.cnblogs.com/haogj/p/16437590.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1714093627285,
+            "title": ".Net Core中的日志组件(Logging) - MicroHeart！ - 博客园",
+            "icon": "https://logo.clearbit.com/www.cnblogs.com",
+            "url": "https://www.cnblogs.com/MicroHeart/p/9341286.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1714093651046,
+            "title": "Logging configuration in .NET core",
+            "icon": "https://logo.clearbit.com/kontext.tech",
+            "url": "https://kontext.tech/article/235/logging-configuration-in-net-core#:~:text=Logging%20configuration%20in%20.NET%20core%201%20Built-in%20Logging,Startup%20class%20to%20configure%20loggings%20and%20filters.%20"
+          },
+          {
+            "type": "link",
+            "addDate": 1714093719363,
+            "title": "AspectCore｜.Net Core 輕量 AOP 實現 - Thinkin Markdown",
+            "icon": "https://logo.clearbit.com/www.thinkinmd.com",
+            "url": "https://www.thinkinmd.com/post/2020/03/20/use-aspectcore-to-implement-aop-mechanism/"
+          },
+          {
+            "type": "link",
+            "addDate": 1714491471542,
+            "title": "Debug high CPU usage - .NET Core - .NET | Microsoft Learn",
+            "icon": "https://logo.clearbit.com/learn.microsoft.com",
+            "url": "https://learn.microsoft.com/en-us/dotnet/core/diagnostics/debug-highcpu?tabs=windows"
+          },
+          {
+            "type": "link",
+            "addDate": 1714491490448,
+            "title": "GitHub - mjrousos/ContainerProfiling: Instructions for profiling .NET Core apps in Docker/K8s containers using dotnet trace or PerfCollect",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/mjrousos/ContainerProfiling"
+          },
+          {
+            "type": "link",
+            "addDate": 1718245870454,
+            "title": "C# - Configuring HttpClient connection keep-alive | makolyte",
+            "icon": "https://logo.clearbit.com/makolyte.com",
+            "url": "https://makolyte.com/csharp-configuring-how-long-an-httpclient-connection-will-stay-open/"
+          },
+          {
+            "type": "link",
+            "addDate": 1718245890234,
+            "title": "c# - HttpClient 抛出 \"An error occurred while sending the request.\" - IT工具网",
+            "icon": "https://logo.clearbit.com/www.coder.work",
+            "url": "https://www.coder.work/article/7533598"
+          },
+          {
+            "type": "link",
+            "addDate": 1718245931264,
+            "title": "c# - HttpClient throwing \"An error occurred while sending the request.\" - Stack Overflow",
+            "icon": "https://logo.clearbit.com/stackoverflow.com",
+            "url": "https://stackoverflow.com/questions/61661696/httpclient-throwing-an-error-occurred-while-sending-the-request"
+          },
+          {
+            "type": "link",
+            "addDate": 1720220340820,
+            "title": "runtime/src/libraries/System.Text.Json/tests/Serialization/CustomConverterTests.NullValueType.cs at 81bf79fd9aa75305e55abe2f7e9ef3f60624a3a1 · dotnet/runtime · GitHub",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/dotnet/runtime/blob/81bf79fd9aa75305e55abe2f7e9ef3f60624a3a1/src/libraries/System.Text.Json/tests/Serialization/CustomConverterTests.NullValueType.cs"
+          },
+          {
+            "type": "link",
+            "addDate": 1720687573982,
+            "title": "如何编写用于 JSON 序列化的自定义转换器 - .NET | Microsoft Learn",
+            "icon": "https://logo.clearbit.com/learn.microsoft.com",
+            "url": "https://learn.microsoft.com/zh-cn/dotnet/standard/serialization/system-text-json/converters-how-to?pivots=dotnet-8-0"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1650346922636,
+        "title": "网络",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1724996399358,
+            "title": "阮一峰的网络日志",
+            "icon": "https://logo.clearbit.com/www.ruanyifeng.com",
+            "url": "https://www.ruanyifeng.com/blog/"
+          },
+          {
+            "type": "link",
+            "addDate": 1698050595322,
+            "title": "HTTP 状态码：完整列表",
+            "icon": "https://logo.clearbit.com/ahrefs.com",
+            "url": "https://ahrefs.com/blog/zh/http-status-codes/"
+          },
+          {
+            "type": "link",
+            "addDate": 1597833525731,
+            "title": "Process CORS Request Assertion",
+            "icon": "https://logo.clearbit.com/techdocs.broadcom.com",
+            "url": "https://techdocs.broadcom.com/content/broadcom/techdocs/us/en/ca-enterprise-software/layer7-api-management/api-gateway/10-0/policy-assertions/assertion-palette/access-control-assertions/process-cors-request-assertion.html#concept.dita_b2bd3269b77dae921baebcdc736012b76c0f628a_ContextVariables"
+          },
+          {
+            "type": "link",
+            "addDate": 1650346905399,
+            "title": "图解 | 原来这就是网络 - 闪客sun - 博客园",
+            "icon": "https://logo.clearbit.com/www.cnblogs.com",
+            "url": "https://www.cnblogs.com/flashsun/p/14266148.html"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1673336772550,
+        "title": "JAVA",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1670298624349,
+            "title": "Java 案例和调优-知识类",
+            "icon": "https://logo.clearbit.com/www.pomit.cn",
+            "url": "http://www.pomit.cn/trial/logic.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1673336750703,
+            "title": "Java 优质开源技术教程 | JavaGuide(Java面试+学习指南)",
+            "icon": "https://logo.clearbit.com/javaguide.cn",
+            "url": "https://javaguide.cn/open-source-project/tutorial.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1694503485078,
+            "title": "\"地瓜哥\"博客网",
+            "icon": "https://logo.clearbit.com/www.diguage.com",
+            "url": "https://www.diguage.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1694505233854,
+            "title": "面向对象的五大基本原则",
+            "icon": "https://logo.clearbit.com/hollischuang.gitee.io",
+            "url": "https://hollischuang.gitee.io/tobetopjavaer/#/basics/object-oriented/principle?id=%e9%87%8c%e6%b0%8f%e6%9b%bf%e6%8d%a2%e5%8e%9f%e5%88%99%ef%bc%88liskov-substitution-principle%ef%bc%89"
+          },
+          {
+            "type": "link",
+            "addDate": 1694505249845,
+            "title": "Java工程师成神之路",
+            "icon": "https://logo.clearbit.com/hollischuang.gitee.io",
+            "url": "https://hollischuang.gitee.io/tobetopjavaer/#/"
+          },
+          {
+            "type": "link",
+            "addDate": 1694513255694,
+            "title": "F# (Mono) – 在线代码执行 | 1人1个沙箱竞技场 | Try It Online",
+            "icon": "https://logo.clearbit.com/tio.1r1g.com",
+            "url": "https://tio.1r1g.com/##SyvWzc3Py///v6AoM68kLU9BySM1JydfRyE8vygnRVHp/38A"
+          },
+          {
+            "type": "link",
+            "addDate": 1702226079541,
+            "title": "Java中JDK8、JDK11、JDK17，该怎么选择？-腾讯云开发者社区-腾讯云",
+            "icon": "https://logo.clearbit.com/cloud.tencent.com",
+            "url": "https://cloud.tencent.com/developer/article/1977236"
+          },
+          {
+            "type": "link",
+            "addDate": 1715614569018,
+            "title": "Case Study: Relational Database Source and File Sink",
+            "icon": "https://logo.clearbit.com/spring.io",
+            "url": "https://spring.io/blog/2020/09/10/case-study-relational-database-source-and-file-sink"
+          },
+          {
+            "type": "link",
+            "addDate": 1717722658277,
+            "title": "在被线上大量日志输出导致性能瓶颈毒打了很多次之后总结出的经验-腾讯云开发者社区-腾讯云",
+            "icon": "https://logo.clearbit.com/cloud.tencent.com",
+            "url": "https://cloud.tencent.com/developer/article/1927375"
+          },
+          {
+            "type": "link",
+            "addDate": 1717723078175,
+            "title": "为何把日志打印到控制台很慢？ - 颇忒脱的技术博客",
+            "icon": "https://logo.clearbit.com/chanjarster.github.io",
+            "url": "https://chanjarster.github.io/post/is-logging-to-console-slow/"
+          },
+          {
+            "type": "link",
+            "addDate": 1717723253261,
+            "title": "容器打印日志到控制台阻塞的排障 - 颇忒脱的技术博客",
+            "icon": "https://logo.clearbit.com/chanjarster.github.io",
+            "url": "https://chanjarster.github.io/post/docker-console-logging-hangs/"
+          },
+          {
+            "type": "link",
+            "addDate": 1717723772357,
+            "title": "python - Why is printing to stdout so slow? Can it be sped up? - Stack Overflow",
+            "icon": "https://logo.clearbit.com/stackoverflow.com",
+            "url": "https://stackoverflow.com/questions/3857052/why-is-printing-to-stdout-so-slow-can-it-be-sped-up"
+          },
+          {
+            "type": "link",
+            "addDate": 1717734791427,
+            "title": "[LOG4J2-2239] Deadlock in log4j 2.10.0 - ASF JIRA",
+            "icon": "https://logo.clearbit.com/issues.apache.org",
+            "url": "https://issues.apache.org/jira/browse/LOG4J2-2239"
+          },
+          {
+            "type": "link",
+            "addDate": 1717734799364,
+            "title": "[LOGBACK-1422] Deadlock with logging - QOS.ch JIRA",
+            "icon": "https://logo.clearbit.com/jira.qos.ch",
+            "url": "https://jira.qos.ch/browse/LOGBACK-1422"
+          },
+          {
+            "type": "link",
+            "addDate": 1723186024613,
+            "title": "Java Platform JDK 下载",
+            "icon": "https://logo.clearbit.com/jdk.java.net",
+            "url": "https://jdk.java.net/java-se-ri/17-MR1"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1698200339935,
+        "title": "算法",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1646303876702,
+            "title": "Trie树详解 - 简书",
+            "icon": "https://logo.clearbit.com/www.jianshu.com",
+            "url": "https://www.jianshu.com/p/6f81da81bd02"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1698200425145,
+        "title": "Splunk",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1698053607399,
+            "title": "Splunk SPL 关键字 函数 示例 （施工中。。。） - 太晓 - 博客园",
+            "icon": "https://logo.clearbit.com/www.cnblogs.com",
+            "url": "https://www.cnblogs.com/congxinglong/p/13343211.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1698053597018,
+            "title": "splunk学习笔记——正则表达式_在splunk中,怎样设置以行开头为分割的正则表达式-CSDN博客",
+            "icon": "https://logo.clearbit.com/blog.csdn.net",
+            "url": "https://blog.csdn.net/Cwiky_1993/article/details/72725355"
+          },
+          {
+            "type": "link",
+            "addDate": 1698053588800,
+            "title": "Splunk 查询示例 - BigJor - 博客园",
+            "icon": "https://logo.clearbit.com/www.cnblogs.com",
+            "url": "https://www.cnblogs.com/bigjor/articles/17013598.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1637058540893,
+            "title": "简体中文版手册 - Splunk Documentation",
+            "icon": "https://logo.clearbit.com/docs.splunk.com",
+            "url": "https://docs.splunk.com/Documentation/Splunk/8.1.5/Translated/SimplifiedChinesemanuals"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1698200416986,
+        "title": "AWS",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1709713816823,
+            "title": "aws-doc-sdk-examples/dotnetv3/dynamodb at main · awsdocs/aws-doc-sdk-examples · GitHub",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/awsdocs/aws-doc-sdk-examples/tree/main/dotnetv3/dynamodb#code-examples"
+          },
+          {
+            "type": "link",
+            "addDate": 1546612941000,
+            "title": "使用环境变量 - AWS Lambda",
+            "icon": "https://logo.clearbit.com/docs.aws.amazon.com",
+            "url": "https://docs.aws.amazon.com/zh_cn/lambda/latest/dg/go-programming-model-env-variables.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1630032884018,
+            "title": "Getting started with Amazon Elasticsearch Service - Amazon Elasticsearch Service",
+            "icon": "https://logo.clearbit.com/docs.aws.amazon.com",
+            "url": "https://docs.aws.amazon.com/elasticsearch-service/latest/developerguide/es-gsg.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1630033189788,
+            "title": "What is Amazon Elasticsearch Service? - Amazon Elasticsearch Service",
+            "icon": "https://logo.clearbit.com/docs.aws.amazon.com",
+            "url": "https://docs.aws.amazon.com/elasticsearch-service/latest/developerguide/what-is-amazon-elasticsearch-service.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1698217630889,
+            "title": "亚马逊AWS官方博客",
+            "icon": "https://logo.clearbit.com/aws.amazon.com",
+            "url": "https://aws.amazon.com/cn/blogs/china/page/5/"
+          },
+          {
+            "type": "link",
+            "addDate": 1683283447590,
+            "title": "Application Load Balancer 的访问日志 - 弹性负载均衡",
+            "icon": "https://logo.clearbit.com/docs.aws.amazon.com",
+            "url": "https://docs.aws.amazon.com/zh_cn/elasticloadbalancing/latest/application/load-balancer-access-logs.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1672024233375,
+            "title": "Using DynamoDB Time to Live (TTL) - Amazon DynamoDB",
+            "icon": "https://logo.clearbit.com/docs.aws.amazon.com",
+            "url": "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/time-to-live-ttl-before-you-start.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1650422478062,
+            "title": "Build and Deploy .Net Core WebAPI Container to Amazon EKS using CDK & cdk8s | AWS Developer Tools Blog",
+            "icon": "https://logo.clearbit.com/aws.amazon.com",
+            "url": "https://aws.amazon.com/cn/blogs/developer/build-and-deploy-net-core-webapi-container-to-amazon-eks-using-cdk-cdk8s/"
+          },
+          {
+            "type": "link",
+            "addDate": 1577788353259,
+            "title": "什么是 AWS Lambda？ - AWS Lambda",
+            "icon": "https://logo.clearbit.com/docs.amazonaws.cn",
+            "url": "https://docs.amazonaws.cn/lambda/latest/dg/welcome.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1659340430447,
+            "title": "Amazon DynamoDB Accelerator(DAX)_完全托管且高度可用的内存缓存-AWS云服务",
+            "icon": "https://logo.clearbit.com/aws.amazon.com",
+            "url": "https://aws.amazon.com/cn/dynamodb/dax/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1677769822301,
+        "title": "Domain Svc",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1669107371722,
+            "title": "PIM SVC",
+            "icon": "https://logo.clearbit.com/services.ebz-chn-prod.mkaws.com",
+            "url": "https://services.ebz-chn-prod.mkaws.com/pimproductservice/products/sku?subsidiarycode=CN&Skus=06184710&Languages=zh-CN&Channel=Preview"
+          },
+          {
+            "type": "link",
+            "addDate": 1642990837897,
+            "title": "Technique Design - (Product) - AppMidEnd Wiki - Confluence",
+            "icon": "https://logo.clearbit.com/wiki.chn.mkcorp.com",
+            "url": "https://wiki.chn.mkcorp.com/pages/viewpage.action?pageId=61577554"
+          },
+          {
+            "type": "link",
+            "addDate": 1677769793609,
+            "title": "PaymentSvc - Swagger UI",
+            "icon": "https://logo.clearbit.com/mkpay-service-latest.qa.pcf-internal.mkc.io",
+            "url": "https://mkpay-service-latest.qa.pcf-internal.mkc.io/swagger-ui.html#/payment-controller"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1693208311516,
+        "title": "新市场",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1693204786233,
+            "title": "New Markets basic Info - AP ONE Team - Confluence",
+            "icon": "https://logo.clearbit.com/marykayap.atlassian.net",
+            "url": "https://marykayap.atlassian.net/wiki/spaces/AOT/pages/510328833/New+Markets+basic+Info"
+          },
+          {
+            "type": "link",
+            "addDate": 1693204776188,
+            "title": "Order Data Track & Untrack - AP ONE Team - Confluence",
+            "icon": "https://logo.clearbit.com/marykayap.atlassian.net",
+            "url": "https://marykayap.atlassian.net/wiki/spaces/AOT/pages/442695688/Order+Data+Track+Untrack"
+          },
+          {
+            "type": "link",
+            "addDate": 1693208284760,
+            "title": "AP Product Swagger UI",
+            "icon": "https://logo.clearbit.com/svc-product-ap-latest.qa.aprpcf-internal.mkc.io",
+            "url": "https://svc-product-ap-latest.qa.aprpcf-internal.mkc.io/swagger-ui.html"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1698200716894,
+        "title": "消息队列",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1525854781000,
+            "title": "RabbitMQ 消息持久化、事务、Publisher的消息确认机制 - CSDN博客",
+            "icon": "https://logo.clearbit.com/blog.csdn.net",
+            "url": "https://blog.csdn.net/u010558660/article/details/53424394"
+          },
+          {
+            "type": "link",
+            "addDate": 1608030498109,
+            "title": "RabbitMQ吞吐量测试-PerfTest上 - 全能程序猿 - 博客园",
+            "icon": "https://logo.clearbit.com/www.cnblogs.com",
+            "url": "https://www.cnblogs.com/xinxiucan/p/8041440.html"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1698200830196,
+        "title": "微信小程序",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1589548774000,
+            "title": "小程序简介 | 微信开放文档",
+            "icon": "https://logo.clearbit.com/developers.weixin.qq.com",
+            "url": "https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/#%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%8A%80%E6%9C%AF%E5%8F%91%E5%B1%95%E5%8F%B2"
+          },
+          {
+            "type": "link",
+            "addDate": 1623289530087,
+            "title": "subscribeMessage.send | 微信开放文档",
+            "icon": "https://logo.clearbit.com/developers.weixin.qq.com",
+            "url": "https://developers.weixin.qq.com/miniprogram/dev/api-backend/open-api/subscribe-message/subscribeMessage.send.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1612108533988,
+            "title": "小程序代码构成 | 微信开放文档",
+            "icon": "https://logo.clearbit.com/developers.weixin.qq.com",
+            "url": "https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/code.html#JSON-%E9%85%8D%E7%BD%AE"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1698200898588,
+        "title": "Redis",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1617674119514,
+            "title": "Lua脚本在redis分布式锁场景的运用 - 逃离沙漠 - 博客园",
+            "icon": "https://logo.clearbit.com/www.cnblogs.com",
+            "url": "https://www.cnblogs.com/demingblog/p/9542124.html#%E9%80%9A%E8%BF%87lua%E8%84%9A%E6%9C%AC%E5%AE%9E%E7%8E%B0%E9%94%81%E9%87%8A%E6%94%BE"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1698202208932,
+        "title": "Github",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1668417485250,
+            "title": "libvips for WebAssembly",
+            "icon": "https://logo.clearbit.com/www.libvips.org",
+            "url": "https://www.libvips.org/2020/09/01/libvips-for-webassembly.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1668418119617,
+            "title": "wasm-vips/src at master · kleisauke/wasm-vips · GitHub",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/kleisauke/wasm-vips/tree/master/src"
+          },
+          {
+            "type": "link",
+            "addDate": 1653462219000,
+            "title": "GitHub - sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/sindresorhus/awesome"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1639115104061,
+        "title": "Tickets",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1567387713000,
+            "title": "China aws upgrade && downgrade dynamodb for promotion - Self-Service - Confluence",
+            "icon": "https://logo.clearbit.com/wiki.chn.mkcorp.com",
+            "url": "http://wiki.chn.mkcorp.com/pages/viewpage.action?pageId=45846994"
+          },
+          {
+            "type": "link",
+            "addDate": 1582795268000,
+            "title": "China AWS EC2 Permission(Admin/Remote) request - Self-Service - Confluence",
+            "icon": "https://logo.clearbit.com/wiki.chn.mkcorp.com",
+            "url": "http://wiki.chn.mkcorp.com/pages/viewpage.action?pageId=11509889"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1639115104064,
+        "title": "OAuth",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1569402712000,
+            "title": "https://qa-oauth-mgr.marykay.site/wiki/apis/flow/token_verify",
+            "icon": "https://logo.clearbit.com/qa-oauth-mgr.marykay.site",
+            "url": "https://qa-oauth-mgr.marykay.site/wiki/apis/flow/token_verify"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1694766384039,
+        "title": "ONE AP",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1694069847426,
+            "title": "ONE-AP - Home",
+            "icon": "https://logo.clearbit.com/mkcorp.sharepoint.com",
+            "url": "https://mkcorp.sharepoint.com/sites/ONE-AP?OR=Teams-HL&CT=1694069839375&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIxNDE1LzIzMDgwNDA4NjM2IiwiSGFzRmVkZXJhdGVkVXNlciI6ZmFsc2V9"
+          },
+          {
+            "type": "link",
+            "addDate": 1694766363891,
+            "title": "oneap-app-epass-login-service - Repos",
+            "icon": "https://logo.clearbit.com/dev.azure.com",
+            "url": "https://dev.azure.com/marykayapac/oneap-e-commerce-applications/_git/oneap-app-epass-login-service"
+          },
+          {
+            "type": "link",
+            "addDate": 1695259058590,
+            "title": "Ecommerce Team - 2023 New Market - 所有文档",
+            "icon": "https://logo.clearbit.com/mkcorp.sharepoint.com",
+            "url": "https://mkcorp.sharepoint.com/sites/-ecommerceteam/Shared%20Documents/Forms/AllItems.aspx?viewpath=%2Fsites%2F%2Decommerceteam%2FShared%20Documents%2FForms%2FAllItems%2Easpx&isAscending=true&id=%2Fsites%2F%2Decommerceteam%2FShared%20Documents%2FProject%2F2023%20New%20Market&sortField=LinkFilename&viewid=925ee332%2D4d4f%2D4ffa%2D980a%2Dd69c7edbfcbf"
+          },
+          {
+            "type": "link",
+            "addDate": 1711417647608,
+            "title": "VN MockUI",
+            "icon": "https://logo.clearbit.com/nwhq7m.axshare.com",
+            "url": "https://nwhq7m.axshare.com/#g=1&p=submit_order"
+          },
+          {
+            "type": "link",
+            "addDate": 1711087955537,
+            "title": "ONE-AP - Home",
+            "icon": "https://logo.clearbit.com/mkcorp.sharepoint.com",
+            "url": "https://mkcorp.sharepoint.com/sites/ONE-AP?CT=1711087935228&OR=OWA-NT-Mail&CID=78bb74aa-81d9-fa78-2b17-184f6952c415&WSL=1"
+          },
+          {
+            "type": "link",
+            "addDate": 1711522504104,
+            "title": "oneap-app-epass-management-service -App  LOG",
+            "icon": "https://logo.clearbit.com/mksplunk.chn.mkcorp.com",
+            "url": "http://mksplunk.chn.mkcorp.com/en-US/app/MK_EKS_Dashboard/search?q=search%20index%3D_*%20OR%20index%3D*%20sourcetype%3Dkube%3Acontainer%3Aoneap-app-epass-management-service&sid=1711522431.265515_71871183-D29A-42B7-B9D8-637168F8EDBF&display.page.search.mode=smart&dispatch.sample_ratio=1&earliest=-24h%40h&latest=now"
+          },
+          {
+            "type": "link",
+            "addDate": 1711535354584,
+            "title": "EKS - Dashboards | Splunk 9.1.1",
+            "icon": "https://logo.clearbit.com/mksplunk.chn.mkcorp.com",
+            "url": "http://mksplunk.chn.mkcorp.com/en-US/app/MK_EKS_Dashboard/dashboards"
+          },
+          {
+            "type": "link",
+            "addDate": 1711536945654,
+            "title": "Kong Overview | Splunk 9.1.1",
+            "icon": "https://logo.clearbit.com/mksplunk.chn.mkcorp.com",
+            "url": "http://mksplunk.chn.mkcorp.com/en-US/app/MK_EKS_Dashboard/kong_overview?form.global_time.earliest=-4h%40m&form.global_time.latest=now&form.service_name=*&form.service_uri=*&form.filter=*&form.threshold=5000"
+          },
+          {
+            "type": "link",
+            "addDate": 1711640033772,
+            "title": "github.com/AutoMapper/AutoMapper/commit/94bd958ecda966899e6433b0652a85019e117323.patch",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/AutoMapper/AutoMapper/commit/94bd958ecda966899e6433b0652a85019e117323.patch"
+          },
+          {
+            "type": "link",
+            "addDate": 1713842859772,
+            "title": "Service Consolidation Plan - AP ONE Team - Confluence",
+            "icon": "https://logo.clearbit.com/marykayap.atlassian.net",
+            "url": "https://marykayap.atlassian.net/wiki/spaces/AOT/pages/561774640/Service+Consolidation+Plan"
+          },
+          {
+            "type": "folder",
+            "addDate": 1718617070098,
+            "title": "site",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1718617001579,
+                "title": "site-rc-back-ap",
+                "icon": "https://logo.clearbit.com/site-sdm-back.prod.oe-eks-chn.mkiapp.com",
+                "url": "https://site-sdm-back.prod.oe-eks-chn.mkiapp.com/cn/gate/management?sid=940d3fadc4e443d59ba6bd319701b16d"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1718617107823,
+            "title": "API",
+            "children": []
+          },
+          {
+            "type": "folder",
+            "addDate": 1721642503858,
+            "title": "压测工具",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1721642459628,
+                "title": "RC DB/EC2 Performance | Splunk 9.1.1",
+                "icon": "https://logo.clearbit.com/mksplunk.chn.mkcorp.com",
+                "url": "http://mksplunk.chn.mkcorp.com/en-US/app/MaryKay_SDM/rc_ec2_performance?form.field1.earliest=-60m%40m&form.field1.latest=now&form.env=prod"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1704115917033,
+        "title": "skywalking",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1703690022141,
+            "title": "Skywalking原理篇(二)：Agent 与 OAP 的通信原理_skywalking:通信-CSDN博客",
+            "icon": "https://logo.clearbit.com/blog.csdn.net",
+            "url": "https://blog.csdn.net/wb4927598/article/details/119192841"
+          },
+          {
+            "type": "link",
+            "addDate": 1704342242487,
+            "title": "GitHub - SkyAPM/SkyAPM-dotnet at v1.3.0",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/SkyAPM/SkyAPM-dotnet/tree/v1.3.0"
+          },
+          {
+            "type": "link",
+            "addDate": 1713869605533,
+            "title": "SkyWalking自定义链路跟踪（@Trace和apm-customize-enhance-plugin介绍） - duanxz - 博客园",
+            "icon": "https://logo.clearbit.com/www.cnblogs.com",
+            "url": "https://www.cnblogs.com/duanxz/p/15607843.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1713869814005,
+            "title": "通过SkyWalking埋点并上报Go应用数据_可观测链路 OpenTelemetry 版(OpenTelemetry)-阿里云帮助中心",
+            "icon": "https://logo.clearbit.com/help.aliyun.com",
+            "url": "https://help.aliyun.com/zh/opentelemetry/user-guide/reporting-net-application-data-through-skytalking#:~:text=%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95%E4%B8%80%EF%BC%88%E6%8E%A8%E8%8D%90%EF%BC%89%EF%BC%9Adotnet-skyapm%E7%9A%84%E4%BD%9C%E7%94%A8%E5%8F%AA%E6%9C%89%E4%B8%80%E4%B8%AA%EF%BC%8C%E5%8D%B3%E7%94%9F%E6%88%90skyapm-dotnet%20agent%E7%9A%84%E5%B1%9E%E6%80%A7%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%EF%BC%8C%E6%82%A8%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E6%89%8B%E5%8A%A8%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AAskyapm.json%EF%BC%8C%E5%B9%B6%E6%8C%89%E7%85%A7%E4%B8%8A%E6%96%87%E4%B8%AD%E7%9A%84%E6%96%B9%E5%BC%8F%E9%85%8D%E7%BD%AE%E5%B1%9E%E6%80%A7%E3%80%82%20%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95%E4%BA%8C%EF%BC%9A%E4%BD%BF%E7%94%A8dotnet%206.0%E3%80%82,%E9%80%9A%E8%BF%87SkyWalking%E4%B8%BA%E5%BA%94%E7%94%A8%E5%9F%8B%E7%82%B9%E5%B9%B6%E4%B8%8A%E6%8A%A5%E9%93%BE%E8%B7%AF%E6%95%B0%E6%8D%AE%E8%87%B3%E5%8F%AF%E8%A7%82%E6%B5%8B%E9%93%BE%E8%B7%AF%20OpenTelemetry%20%E7%89%88%E5%90%8E%EF%BC%8C%E5%8F%AF%E8%A7%82%E6%B5%8B%E9%93%BE%E8%B7%AF%20OpenTelemetry%20%E7%89%88%E5%8D%B3%E5%8F%AF%E5%BC%80%E5%A7%8B%E7%9B%91%E6%8E%A7%E5%BA%94%E7%94%A8%EF%BC%8C%E6%82%A8%E5%8F%AF%E4%BB%A5%E6%9F%A5%E7%9C%8B%E5%BA%94%E7%94%A8%E6%8B%93%E6%89%91%E3%80%81%E8%B0%83%E7%94%A8%E9%93%BE%E8%B7%AF%E3%80%81%E5%BC%82%E5%B8%B8%E4%BA%8B%E5%8A%A1%E3%80%81%E6%85%A2%E4%BA%8B%E5%8A%A1%E5%92%8CSQL%E5%88%86%E6%9E%90%E7%AD%89%E4%B8%80%E7%B3%BB%E5%88%97%E7%9B%91%E6%8E%A7%E6%95%B0%E6%8D%AE%E3%80%82"
+          },
+          {
+            "type": "link",
+            "addDate": 1713869983869,
+            "title": "Skywalking APM监控系列(一丶.NET5.0+接入Skywalking监听)-腾讯云开发者社区-腾讯云",
+            "icon": "https://logo.clearbit.com/cloud.tencent.com",
+            "url": "https://cloud.tencent.com/developer/article/2346949"
+          },
+          {
+            "type": "link",
+            "addDate": 1713870121861,
+            "title": "Net6 对接 Skywalking - 非著名架构师 - 博客园",
+            "icon": "https://logo.clearbit.com/www.cnblogs.com",
+            "url": "https://www.cnblogs.com/jasontarry/p/15891675.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1714093550943,
+            "title": "NET Core微服务之路：实战SkyWalking+Exceptionless体验生产环境下的追踪系统 - 另一个老李 - 博客园",
+            "icon": "https://logo.clearbit.com/www.cnblogs.com",
+            "url": "https://www.cnblogs.com/SteveLee/p/SkyWalking_Exceptionless_Actual_Combat.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1714313662863,
+            "title": "Elasticsearch 优化 · Apache Skywalking Handbook",
+            "icon": "https://logo.clearbit.com/skywalking-handbook.netlify.app",
+            "url": "https://skywalking-handbook.netlify.app/extensions/es_opti"
+          },
+          {
+            "type": "link",
+            "addDate": 1721707477534,
+            "title": "Apache SkyWalking PROD",
+            "icon": "https://logo.clearbit.com/gateway-skywalking.prod.bts-eks-internal-chn.mkiapp.com",
+            "url": "https://gateway-skywalking.prod.bts-eks-internal-chn.mkiapp.com/General-Service/Services"
+          },
+          {
+            "type": "link",
+            "addDate": 1721707526150,
+            "title": "Apache SkyWalking - UAT",
+            "icon": "https://logo.clearbit.com/gateway-skywalking.uat.bts-eks-internal-chn.mkiapp.com",
+            "url": "https://gateway-skywalking.uat.bts-eks-internal-chn.mkiapp.com/General-Service/Services?code=9998612b32b434254c8599cf55d552777c145586"
+          },
+          {
+            "type": "link",
+            "addDate": 1723445046779,
+            "title": "Working...",
+            "icon": "https://logo.clearbit.com/login.microsoftonline.com",
+            "url": "https://login.microsoftonline.com/8eb73218-837f-41d8-a48c-1c1f942b2b2a/saml2?SAMLRequest=fZLdjtMwEIVfJfK9kzjNblOrrVRaISotUG0LF9ygiTPZWuvYwWMv9O1JUn4WASvfjeb4nE9nlgSd6eUmhrO9xy8RKST73Yp9rvNFM2tnOYebRvCyym%2f5QtRzLnLVCGwWqrhpWPIRPWlnV6xIc5bsiSLuLQWwYRjlRcnziovilN%2fKspR58Yklu8FBWwiT6hxCTzLLjHvQNu208o5cG5w12mKqXJdVWM9nhah4NZu3vBRNxaGsFBdKtIuyqIcH2chQsOS18wonkhVrwRCOiQ5ApJ%2fw1%2bTgXXDKmVfaNto%2brFj0VjogTdJChySDksfN2zs5EMn6ukTyzel04If3xxNLNkTox%2fhbZyl26I%2fon7TCD%2fd3v4EiBO5giDKR8d67tAN%2feYSLtsFFdR7hUmWzI6rop9DZFoypQT2y5FtnLMmpmZfz9T9g2Ho5bsupAP9M%2f7IcfqKw9V%2fB%2f513mT3zuZr28t3w8X53cEary1hCB%2bH%2fviIV00Q3vJ1WZbTUo9KtxuGgNsa4r1uPEIbKgo9DY9n66vrnla6%2fAw%3d%3d&RelayState=https%3a%2f%2fuat-oauthlogin-pro.marykayintouch.com.cn%2fSecureAuth%2fCallback%3fclient_id%3dd03993c8-2c48-49bc-bb74-c38e5af2e7d3%26redirect_uri%3dhttps%253a%252f%252fgateway-skywalking.uat.bts-eks-internal-apr.mkapps.com%252f&sso_nonce=AwABEgEAAAACAOz_BQD0_5tmprYCMy2GQJafHbC6f0Idv0z9x_1TqInQacwb-1hrKyjmc9SRY4Yg6-SUfjtzZf4zceGplimcEd7oB4AP1CUgAA&client-request-id=1468c7dd-76a0-424a-9b63-e9b26a30a76f&mscrid=1468c7dd-76a0-424a-9b63-e9b26a30a76f"
+          },
+          {
+            "type": "link",
+            "addDate": 1723445057107,
+            "title": "Apache SkyWalking - APR",
+            "icon": "https://logo.clearbit.com/gateway-skywalking.uat.bts-eks-internal-apr.mkapps.com",
+            "url": "https://gateway-skywalking.uat.bts-eks-internal-apr.mkapps.com/General-Service/Services"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1721097764432,
+        "title": "EKS",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1721097740119,
+            "title": "详解k8s中的liveness和readiness的原理和区别 - xinkun的博客 | Xinkun Blog",
+            "icon": "https://logo.clearbit.com/xuxinkun.github.io",
+            "url": "https://xuxinkun.github.io/2019/10/28/liveness-readiness/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721399291619,
+            "title": "pod日志采集（Fluent Bit方案）-崔亮的博客",
+            "icon": "https://logo.clearbit.com/www.cuiliangblog.cn",
+            "url": "https://www.cuiliangblog.cn/detail/article/75"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1694679881763,
+        "title": "DB",
+        "children": [
           {
             "type": "folder",
             "addDate": 1657275076443,
-            "title": "SQL",
+            "title": "SQL Server",
             "children": [
+              {
+                "type": "link",
+                "addDate": 1716819462513,
+                "title": "SQL Server事务遭遇网络异常时的处理机制浅析 - 潇湘隐者 - 博客园",
+                "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                "url": "https://www.cnblogs.com/kerrycode/p/7245891.html"
+              },
               {
                 "type": "link",
                 "addDate": 1657275060891,
@@ -333,1227 +1522,38 @@
           },
           {
             "type": "folder",
-            "addDate": 1625799594193,
-            "title": ".Net Core",
+            "addDate": 1727235821285,
+            "title": "Mongo",
             "children": [
               {
                 "type": "link",
-                "addDate": 1589351087714,
-                "title": "在 ASP.NET Core 中使用 IHttpClientFactory 发出 HTTP 请求 | Microsoft Docs",
-                "icon": "https://logo.clearbit.com/docs.microsoft.com",
-                "url": "https://docs.microsoft.com/zh-cn/aspnet/core/fundamentals/http-requests?view=aspnetcore-2.1"
+                "addDate": 1535390554000,
+                "title": "MongoDb LINQ",
+                "icon": "https://logo.clearbit.com/mongodb.github.io",
+                "url": "http://mongodb.github.io/mongo-csharp-driver/2.7/reference/driver/crud/linq/"
               },
               {
                 "type": "link",
-                "addDate": 1618908641345,
-                "title": "What's next for System.Text.Json? | .NET Blog",
-                "icon": "https://logo.clearbit.com/devblogs.microsoft.com",
-                "url": "https://devblogs.microsoft.com/dotnet/whats-next-for-system-text-json/"
-              },
-              {
-                "type": "link",
-                "addDate": 1618908791375,
-                "title": "从 Newtonsoft.Json 迁移到 System.Text.Json - .NET | Microsoft Docs",
-                "icon": "https://logo.clearbit.com/docs.microsoft.com",
-                "url": "https://docs.microsoft.com/zh-cn/dotnet/standard/serialization/system-text-json-migrate-from-newtonsoft-how-to?pivots=dotnet-5-0"
-              },
-              {
-                "type": "link",
-                "addDate": 1621932320056,
-                "title": "Compare gRPC services with HTTP APIs | Microsoft Docs",
-                "icon": "https://logo.clearbit.com/docs.microsoft.com",
-                "url": "https://docs.microsoft.com/en-us/aspnet/core/gRPC/comparison?view=aspnetcore-3.0"
-              },
-              {
-                "type": "link",
-                "addDate": 1625800261474,
-                "title": "开发人员工具、技术文档和代码示例 | Microsoft Docs",
-                "icon": "https://logo.clearbit.com/docs.microsoft.com",
-                "url": "https://docs.microsoft.com/zh-cn/"
-              },
-              {
-                "type": "link",
-                "addDate": 1650422814758,
-                "title": "GitHub - aws-samples/aws-cdk-k8s-dotnet-todo",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/aws-samples/aws-cdk-k8s-dotnet-todo"
-              },
-              {
-                "type": "link",
-                "addDate": 1651728857668,
-                "title": "InCerry - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/InCerry/"
-              },
-              {
-                "type": "link",
-                "addDate": 1656855631551,
-                "title": ".NET 文档 | Microsoft Docs",
-                "icon": "https://logo.clearbit.com/docs.microsoft.com",
-                "url": "https://docs.microsoft.com/zh-cn/dotnet/fundamentals/"
-              },
-              {
-                "type": "link",
-                "addDate": 1656906698480,
-                "title": "命名准则 - Framework Design Guidelines | Microsoft Docs",
-                "icon": "https://logo.clearbit.com/docs.microsoft.com",
-                "url": "https://docs.microsoft.com/zh-cn/dotnet/standard/design-guidelines/naming-guidelines"
-              },
-              {
-                "type": "link",
-                "addDate": 1657114718404,
-                "title": "Apollo · GitHub",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/apolloconfig"
-              },
-              {
-                "type": "link",
-                "addDate": 1657114729998,
-                "title": "GitHub - apolloconfig/apollo.net: Apollo配置中心.Net客户端",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/apolloconfig/apollo.net"
-              },
-              {
-                "type": "link",
-                "addDate": 1657206363096,
-                "title": "Citrix Workspace",
-                "icon": "https://logo.clearbit.com/citrix.mkcorp.com.cn",
-                "url": "https://citrix.mkcorp.com.cn/Citrix/MaryKayCitrixCNWeb/"
-              },
-              {
-                "type": "link",
-                "addDate": 1669786461989,
-                "title": "Project Jupyter | Home",
-                "icon": "https://logo.clearbit.com/jupyter.org",
-                "url": "http://jupyter.org/"
-              },
-              {
-                "type": "link",
-                "addDate": 1676957435399,
-                "title": "NetCore Swagger - blsegirl - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/blsegirl/p/15892468.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1701181394897,
-                "title": "垃圾回收的基本知识 - .NET | Microsoft Learn",
-                "icon": "https://logo.clearbit.com/learn.microsoft.com",
-                "url": "https://learn.microsoft.com/zh-cn/dotnet/standard/garbage-collection/fundamentals"
-              },
-              {
-                "type": "link",
-                "addDate": 1701182139705,
-                "title": "dotnet-counters 诊断工具 - .NET CLI - .NET | Microsoft Learn",
-                "icon": "https://logo.clearbit.com/learn.microsoft.com",
-                "url": "https://learn.microsoft.com/zh-cn/dotnet/core/diagnostics/dotnet-counters"
-              },
-              {
-                "type": "link",
-                "addDate": 1701182839299,
-                "title": "垃圾回收和性能 - .NET | Microsoft Learn",
-                "icon": "https://logo.clearbit.com/learn.microsoft.com",
-                "url": "https://learn.microsoft.com/zh-cn/dotnet/standard/garbage-collection/performance#IsGC"
-              },
-              {
-                "type": "link",
-                "addDate": 1701340417537,
-                "title": "GitHub - sebastienros/memoryleak",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/sebastienros/memoryleak/tree/master"
-              },
-              {
-                "type": "link",
-                "addDate": 1701743759649,
-                "title": "ASP.NET Core 中的内存管理和模式 | Microsoft Learn",
-                "icon": "https://logo.clearbit.com/learn.microsoft.com",
-                "url": "https://learn.microsoft.com/zh-cn/aspnet/core/performance/memory?view=aspnetcore-8.0"
-              },
-              {
-                "type": "link",
-                "addDate": 1702285653500,
-                "title": "从 ASP.NET Core 2.1 迁移到 2.2 | Microsoft Learn",
-                "icon": "https://logo.clearbit.com/learn.microsoft.com",
-                "url": "https://learn.microsoft.com/zh-cn/aspnet/core/migration/21-to-22?view=aspnetcore-8.0&tabs=visual-studio"
-              },
-              {
-                "type": "link",
-                "addDate": 1713505415817,
-                "title": "Tracing .NET applications with PerfCollect. - .NET | Microsoft Learn",
-                "icon": "https://logo.clearbit.com/learn.microsoft.com",
-                "url": "https://learn.microsoft.com/en-us/dotnet/core/diagnostics/trace-perfcollect-lttng"
-              },
-              {
-                "type": "link",
-                "addDate": 1713508210210,
-                "title": "Collect diagnostics in containers - .NET | Microsoft Learn",
-                "icon": "https://logo.clearbit.com/learn.microsoft.com",
-                "url": "https://learn.microsoft.com/en-us/dotnet/core/diagnostics/diagnostics-in-containers"
-              },
-              {
-                "type": "link",
-                "addDate": 1714093433102,
-                "title": ".Net Core中的诊断日志DiagnosticSource讲解 - yi念之间 - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/wucy/p/13532534.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1714093450640,
-                "title": "【.NET Core框架】诊断日志（DiagnosticSource） - .Neterr - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/fanfan-90/p/14507721.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1714093482488,
-                "title": ".NET Core 诊断跟踪：DiagnosticSource - 简书",
-                "icon": "https://logo.clearbit.com/www.jianshu.com",
-                "url": "https://www.jianshu.com/p/a1eb1c0aa1ef"
-              },
-              {
-                "type": "link",
-                "addDate": 1714093509926,
-                "title": "ASP.NET Core 中文文档 第三章 原理（10）依赖注入 - .NET_CORE_COMMUNITY - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/dotNETCoreSG/p/aspnetcore-3_10-dependency-injection.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1714093515993,
-                "title": "ASP.NETCore 切面编程AOP 详解 - FrankFyy - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/Fengyinyong/p/13664311.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1714093536495,
-                "title": "asp.net core5 使用Skywalking APM - 沐雪架构师 - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/puzi0315/p/15597975.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1714093570596,
-                "title": "七、.net core(.NET 6)使用Serilog进行配置和实现日志记录-CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/e_hilary/article/details/118925669"
-              },
-              {
-                "type": "link",
-                "addDate": 1714093581084,
-                "title": "在 ASP.NET Core 中 使用 Serilog - 冠军 - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/haogj/p/16437590.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1714093627285,
-                "title": ".Net Core中的日志组件(Logging) - MicroHeart！ - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/MicroHeart/p/9341286.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1714093651046,
-                "title": "Logging configuration in .NET core",
-                "icon": "https://logo.clearbit.com/kontext.tech",
-                "url": "https://kontext.tech/article/235/logging-configuration-in-net-core#:~:text=Logging%20configuration%20in%20.NET%20core%201%20Built-in%20Logging,Startup%20class%20to%20configure%20loggings%20and%20filters.%20"
-              },
-              {
-                "type": "link",
-                "addDate": 1714093719363,
-                "title": "AspectCore｜.Net Core 輕量 AOP 實現 - Thinkin Markdown",
-                "icon": "https://logo.clearbit.com/www.thinkinmd.com",
-                "url": "https://www.thinkinmd.com/post/2020/03/20/use-aspectcore-to-implement-aop-mechanism/"
-              },
-              {
-                "type": "link",
-                "addDate": 1714491471542,
-                "title": "Debug high CPU usage - .NET Core - .NET | Microsoft Learn",
-                "icon": "https://logo.clearbit.com/learn.microsoft.com",
-                "url": "https://learn.microsoft.com/en-us/dotnet/core/diagnostics/debug-highcpu?tabs=windows"
-              },
-              {
-                "type": "link",
-                "addDate": 1714491490448,
-                "title": "GitHub - mjrousos/ContainerProfiling: Instructions for profiling .NET Core apps in Docker/K8s containers using dotnet trace or PerfCollect",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/mjrousos/ContainerProfiling"
-              },
-              {
-                "type": "link",
-                "addDate": 1718245870454,
-                "title": "C# - Configuring HttpClient connection keep-alive | makolyte",
-                "icon": "https://logo.clearbit.com/makolyte.com",
-                "url": "https://makolyte.com/csharp-configuring-how-long-an-httpclient-connection-will-stay-open/"
-              },
-              {
-                "type": "link",
-                "addDate": 1718245890234,
-                "title": "c# - HttpClient 抛出 \"An error occurred while sending the request.\" - IT工具网",
-                "icon": "https://logo.clearbit.com/www.coder.work",
-                "url": "https://www.coder.work/article/7533598"
-              },
-              {
-                "type": "link",
-                "addDate": 1718245931264,
-                "title": "c# - HttpClient throwing \"An error occurred while sending the request.\" - Stack Overflow",
+                "addDate": 1535391126000,
+                "title": "c# - New alternative for old .net Driver MongoCollection.Save? - Stack Overflow",
                 "icon": "https://logo.clearbit.com/stackoverflow.com",
-                "url": "https://stackoverflow.com/questions/61661696/httpclient-throwing-an-error-occurred-while-sending-the-request"
+                "url": "https://stackoverflow.com/questions/30385232/new-alternative-for-old-net-driver-mongocollection-save"
               },
               {
                 "type": "link",
-                "addDate": 1720220340820,
-                "title": "runtime/src/libraries/System.Text.Json/tests/Serialization/CustomConverterTests.NullValueType.cs at 81bf79fd9aa75305e55abe2f7e9ef3f60624a3a1 · dotnet/runtime · GitHub",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/dotnet/runtime/blob/81bf79fd9aa75305e55abe2f7e9ef3f60624a3a1/src/libraries/System.Text.Json/tests/Serialization/CustomConverterTests.NullValueType.cs"
-              },
-              {
-                "type": "link",
-                "addDate": 1720687573982,
-                "title": "如何编写用于 JSON 序列化的自定义转换器 - .NET | Microsoft Learn",
-                "icon": "https://logo.clearbit.com/learn.microsoft.com",
-                "url": "https://learn.microsoft.com/zh-cn/dotnet/standard/serialization/system-text-json/converters-how-to?pivots=dotnet-8-0"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1698200339935,
-            "title": "算法",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1646303876702,
-                "title": "Trie树详解 - 简书",
-                "icon": "https://logo.clearbit.com/www.jianshu.com",
-                "url": "https://www.jianshu.com/p/6f81da81bd02"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1698200425145,
-            "title": "Splunk",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1698053607399,
-                "title": "Splunk SPL 关键字 函数 示例 （施工中。。。） - 太晓 - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/congxinglong/p/13343211.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1698053597018,
-                "title": "splunk学习笔记——正则表达式_在splunk中,怎样设置以行开头为分割的正则表达式-CSDN博客",
+                "addDate": 1535612349000,
+                "title": "MongoDB upsert操作并发的原子性 - CSDN博客",
                 "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/Cwiky_1993/article/details/72725355"
-              },
-              {
-                "type": "link",
-                "addDate": 1698053588800,
-                "title": "Splunk 查询示例 - BigJor - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/bigjor/articles/17013598.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1637058540893,
-                "title": "简体中文版手册 - Splunk Documentation",
-                "icon": "https://logo.clearbit.com/docs.splunk.com",
-                "url": "https://docs.splunk.com/Documentation/Splunk/8.1.5/Translated/SimplifiedChinesemanuals"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1698200416986,
-            "title": "AWS",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1698217630889,
-                "title": "亚马逊AWS官方博客",
-                "icon": "https://logo.clearbit.com/aws.amazon.com",
-                "url": "https://aws.amazon.com/cn/blogs/china/page/5/"
-              },
-              {
-                "type": "link",
-                "addDate": 1683283447590,
-                "title": "Application Load Balancer 的访问日志 - 弹性负载均衡",
-                "icon": "https://logo.clearbit.com/docs.aws.amazon.com",
-                "url": "https://docs.aws.amazon.com/zh_cn/elasticloadbalancing/latest/application/load-balancer-access-logs.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1672024233375,
-                "title": "Using DynamoDB Time to Live (TTL) - Amazon DynamoDB",
-                "icon": "https://logo.clearbit.com/docs.aws.amazon.com",
-                "url": "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/time-to-live-ttl-before-you-start.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1650422478062,
-                "title": "Build and Deploy .Net Core WebAPI Container to Amazon EKS using CDK & cdk8s | AWS Developer Tools Blog",
-                "icon": "https://logo.clearbit.com/aws.amazon.com",
-                "url": "https://aws.amazon.com/cn/blogs/developer/build-and-deploy-net-core-webapi-container-to-amazon-eks-using-cdk-cdk8s/"
-              },
-              {
-                "type": "link",
-                "addDate": 1577788353259,
-                "title": "什么是 AWS Lambda？ - AWS Lambda",
-                "icon": "https://logo.clearbit.com/docs.amazonaws.cn",
-                "url": "https://docs.amazonaws.cn/lambda/latest/dg/welcome.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1659340430447,
-                "title": "Amazon DynamoDB Accelerator(DAX)_完全托管且高度可用的内存缓存-AWS云服务",
-                "icon": "https://logo.clearbit.com/aws.amazon.com",
-                "url": "https://aws.amazon.com/cn/dynamodb/dax/"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1677769822301,
-            "title": "Domain Svc",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1669107371722,
-                "title": "PIM SVC",
-                "icon": "https://logo.clearbit.com/services.ebz-chn-prod.mkaws.com",
-                "url": "https://services.ebz-chn-prod.mkaws.com/pimproductservice/products/sku?subsidiarycode=CN&Skus=06184710&Languages=zh-CN&Channel=Preview"
-              },
-              {
-                "type": "link",
-                "addDate": 1642990837897,
-                "title": "Technique Design - (Product) - AppMidEnd Wiki - Confluence",
-                "icon": "https://logo.clearbit.com/wiki.chn.mkcorp.com",
-                "url": "https://wiki.chn.mkcorp.com/pages/viewpage.action?pageId=61577554"
-              },
-              {
-                "type": "link",
-                "addDate": 1677769793609,
-                "title": "PaymentSvc - Swagger UI",
-                "icon": "https://logo.clearbit.com/mkpay-service-latest.qa.pcf-internal.mkc.io",
-                "url": "https://mkpay-service-latest.qa.pcf-internal.mkc.io/swagger-ui.html#/payment-controller"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1693208311516,
-            "title": "新市场",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1693204786233,
-                "title": "New Markets basic Info - AP ONE Team - Confluence",
-                "icon": "https://logo.clearbit.com/marykayap.atlassian.net",
-                "url": "https://marykayap.atlassian.net/wiki/spaces/AOT/pages/510328833/New+Markets+basic+Info"
-              },
-              {
-                "type": "link",
-                "addDate": 1693204776188,
-                "title": "Order Data Track & Untrack - AP ONE Team - Confluence",
-                "icon": "https://logo.clearbit.com/marykayap.atlassian.net",
-                "url": "https://marykayap.atlassian.net/wiki/spaces/AOT/pages/442695688/Order+Data+Track+Untrack"
-              },
-              {
-                "type": "link",
-                "addDate": 1693208284760,
-                "title": "AP Product Swagger UI",
-                "icon": "https://logo.clearbit.com/svc-product-ap-latest.qa.aprpcf-internal.mkc.io",
-                "url": "https://svc-product-ap-latest.qa.aprpcf-internal.mkc.io/swagger-ui.html"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1694503512376,
-            "title": "运维",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1679290229224,
-                "title": "Ecommerce Team - Project - 所有文档",
-                "icon": "https://logo.clearbit.com/mkcorp.sharepoint.com",
-                "url": "https://mkcorp.sharepoint.com/sites/-ecommerceteam/Shared%20Documents/Forms/AllItems.aspx?viewpath=%2Fsites%2F%2Decommerceteam%2FShared%20Documents%2FForms%2FAllItems%2Easpx&id=%2Fsites%2F%2Decommerceteam%2FShared%20Documents%2FProject&sortField=LinkFilename&isAscending=true&viewid=925ee332%2D4d4f%2D4ffa%2D980a%2Dd69c7edbfcbf"
-              },
-              {
-                "type": "link",
-                "addDate": 1674713346928,
-                "title": "marykay-ism.ivanticloud.com:Change Saved Search: Active Changes",
-                "icon": "https://logo.clearbit.com/marykay-ism.ivanticloud.com",
-                "url": "https://marykay-ism.ivanticloud.com/Default.aspx#1674713346706"
-              },
-              {
-                "type": "link",
-                "addDate": 1666953641683,
-                "title": "MaryKay CN Bastion Server",
-                "icon": "https://logo.clearbit.com/web-bastion.chn.mkcorp.com",
-                "url": "https://web-bastion.chn.mkcorp.com/core/auth/login/"
-              },
-              {
-                "type": "link",
-                "addDate": 1648808997494,
-                "title": "敏感词后台",
-                "icon": "https://logo.clearbit.com/support.marykayintouch.com.cn",
-                "url": "https://support.marykayintouch.com.cn/admin/login"
-              },
-              {
-                "type": "link",
-                "addDate": 1600338220323,
-                "title": "Content CMS",
-                "icon": "https://logo.clearbit.com/contentcms.marykaytools.cn",
-                "url": "https://contentcms.marykaytools.cn/"
-              },
-              {
-                "type": "link",
-                "addDate": 1623899465573,
-                "title": "MKNuget",
-                "icon": "https://logo.clearbit.com/mknuget.mkcorp.com",
-                "url": "http://mknuget.mkcorp.com/feeds/MaryKayGlobal"
-              },
-              {
-                "type": "link",
-                "addDate": 1623746647303,
-                "title": "My Apps",
-                "icon": "https://logo.clearbit.com/myapplications.microsoft.com",
-                "url": "https://myapplications.microsoft.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1640847736596,
-                "title": "Lumos | Login",
-                "icon": "https://logo.clearbit.com/lumos.cn-north-1.mkdeploy.io",
-                "url": "http://lumos.cn-north-1.mkdeploy.io:8080/login;jsessionid=722921DB4B34D24FA57D527C1D9796B4"
-              },
-              {
-                "type": "link",
-                "addDate": 1609393246069,
-                "title": "Bastion Server user guide - Self-Service - Confluence",
-                "icon": "https://logo.clearbit.com/wiki.chn.mkcorp.com",
-                "url": "https://wiki.chn.mkcorp.com/display/SEL/Bastion+Server+user+guide"
-              },
-              {
-                "type": "link",
-                "addDate": 1599646981192,
-                "title": "Business Applications Support - China E-Comm Release Documents - 所有文档",
-                "icon": "https://logo.clearbit.com/mkcorp.sharepoint.com",
-                "url": "https://mkcorp.sharepoint.com/sites/co-usa-ist-TMEBZbusinessapplicationssupport/Release%20Notes/Forms/AllItems.aspx?viewid=5243cbef-d8ae-4073-b19b-83685bea6d2e&id=%2Fsites%2Fco-usa-ist-TMEBZbusinessapplicationssupport%2FRelease%20Notes%2FChina%20E-Comm%20Release%20Documents"
-              },
-              {
-                "type": "link",
-                "addDate": 1608884027088,
-                "title": "SAM OE OO&CorpSite - AWS Enablement Wiki - Confluence",
-                "icon": "https://logo.clearbit.com/wiki.chn.mkcorp.com",
-                "url": "https://wiki.chn.mkcorp.com/pages/viewpage.action?pageId=8913115"
-              },
-              {
-                "type": "link",
-                "addDate": 1575022821067,
-                "title": "AWS UAT ebizOEawscnuat Upgrade and Downgrade - Self-Service - Confluence",
-                "icon": "https://logo.clearbit.com/wiki.chn.mkcorp.com",
-                "url": "http://wiki.chn.mkcorp.com/display/SEL/AWS+UAT+ebizOEawscnuat+Upgrade+and+Downgrade"
-              },
-              {
-                "type": "link",
-                "addDate": 1698202841143,
-                "title": "YApi-高效、易用、功能强大的可视化接口管理平台",
-                "icon": "https://logo.clearbit.com/mock-api.mkwap.cn",
-                "url": "https://mock-api.mkwap.cn/"
-              },
-              {
-                "type": "folder",
-                "addDate": 1698202916211,
-                "title": "xxJob - CN",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1693791198011,
-                    "title": "XXL JOB ADMIN",
-                    "icon": "https://logo.clearbit.com/admin-oe-job.ebz-chn-prod.mkaws.com",
-                    "url": "https://admin-oe-job.ebz-chn-prod.mkaws.com/xxl-job-admin/toLogin"
-                  }
-                ]
-              },
-              {
-                "type": "folder",
-                "addDate": 1698202932391,
-                "title": "jekins - CN",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1669776483022,
-                    "title": "Jenkins-old",
-                    "icon": "https://logo.clearbit.com/10.216.202.18",
-                    "url": "http://10.216.202.18/login?from=/job/OE/job/DEV/job/Build_CustomerService/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1669776515200,
-                    "title": "All [OE] [Jenkins] - new",
-                    "icon": "https://logo.clearbit.com/jenkins2.cn-north-1.mkdeploy.io",
-                    "url": "http://jenkins2.cn-north-1.mkdeploy.io/job/OE/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1698202291996,
-                    "title": "Sqs-Purge-Queue [Platform » Operations] [Jenkins]",
-                    "icon": "https://logo.clearbit.com/10.216.202.18",
-                    "url": "http://10.216.202.18/job/Platform/job/Operations/job/Sqs-Purge-Queue/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1623393334116,
-                    "title": "jobexecutor 重启",
-                    "icon": "https://logo.clearbit.com/jenkins2.cn-north-1.mkdeploy.io",
-                    "url": "http://jenkins2.cn-north-1.mkdeploy.io/job/Devops/job/Restart_jobexecutor_EC2/build?delay=0sec"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1719898564208,
-                    "title": "OE_CD [OE] [Jenkins]",
-                    "icon": "https://logo.clearbit.com/jenkins-chn.prod.eks.mkapps.com",
-                    "url": "https://jenkins-chn.prod.eks.mkapps.com/job/OE/job/OE_CD/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1698893845702,
-                    "title": "Jenkins EKS - Restart Pod",
-                    "icon": "https://logo.clearbit.com/jenkins-chn.prod.eks.mkapps.com",
-                    "url": "https://jenkins-chn.prod.eks.mkapps.com/job/DevOps/job/Tools/job/%E9%87%8D%E5%90%AFPOD/build?delay=0sec"
-                  }
-                ]
-              },
-              {
-                "type": "link",
-                "addDate": 1699328323576,
-                "title": "dev.azure.com",
-                "icon": "https://logo.clearbit.com/dev.azure.com",
-                "url": "https://dev.azure.com/marykayapac/e-commerce-platforms/_git/platform-xxl-job"
-              },
-              {
-                "type": "folder",
-                "addDate": 1701397687443,
-                "title": "prometheus",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1701397664272,
-                    "title": "Overview | Prometheus",
-                    "icon": "https://logo.clearbit.com/prometheus.io",
-                    "url": "https://prometheus.io/docs/introduction/overview/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1701397690981,
-                    "title": "Grafana documentation | Grafana documentation",
-                    "icon": "https://logo.clearbit.com/grafana.com",
-                    "url": "https://grafana.com/docs/grafana/v10.1/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1701397737659,
-                    "title": "Not found - Dashboards - Grafana",
-                    "icon": "https://logo.clearbit.com/grafana.bts-eks-internal-chn.mkiapp.com",
-                    "url": "https://grafana.bts-eks-internal-chn.mkiapp.com/d/Pwq1MJtdvnez1/k8s-for-prometheus-uat-dashboard?orgId=1&var-ClusterName=cn-north-1-ebiz-eks-uat-1&var-origin_prometheus=&var-Node=All&var-NameSpace=oe&var-Container=All&var-Pod=All&from=1697189225188&to=1697191025188"
-                  }
-                ]
-              },
-              {
-                "type": "link",
-                "addDate": 1703040351101,
-                "title": "chromedriver.storage.googleapis.com/index.html",
-                "icon": "https://logo.clearbit.com/chromedriver.storage.googleapis.com",
-                "url": "https://chromedriver.storage.googleapis.com/index.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1703040368795,
-                "title": "Chrome for Testing availability",
-                "icon": "https://logo.clearbit.com/googlechromelabs.github.io",
-                "url": "https://googlechromelabs.github.io/chrome-for-testing/#stable"
-              },
-              {
-                "type": "link",
-                "addDate": 1703490222204,
-                "title": "GitHub - alibabacloud-observability/skywalking-demo: 链路追踪Skywalking上报数据的demo",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/alibabacloud-observability/skywalking-demo"
-              },
-              {
-                "type": "link",
-                "addDate": 1711677400268,
-                "title": "Login | Kong Manager",
-                "icon": "https://logo.clearbit.com/kongext-manager.uat.bts-eks-internal-chn.mkiapp.com",
-                "url": "https://kongext-manager.uat.bts-eks-internal-chn.mkiapp.com/login"
-              },
-              {
-                "type": "link",
-                "addDate": 1712573017699,
-                "title": "dotnet-docker/samples/enable-globalization.md at main · dotnet/dotnet-docker · GitHub",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/dotnet/dotnet-docker/blob/main/samples/enable-globalization.md"
-              },
-              {
-                "type": "link",
-                "addDate": 1712573203012,
-                "title": "EF Core 8: Only the invariant culture is supported in globalization-invariant mode · Issue #2239 · dotnet/SqlClient · GitHub",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/dotnet/SqlClient/issues/2239"
-              },
-              {
-                "type": "link",
-                "addDate": 1712660309274,
-                "title": "dotnet-docker/src/runtime-deps/8.0/alpine3.18/amd64/Dockerfile at 2e4b5915486c96b4e5f7d49b01a767301f661790 · dotnet/dotnet-docker · GitHub",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/dotnet/dotnet-docker/blob/2e4b5915486c96b4e5f7d49b01a767301f661790/src/runtime-deps/8.0/alpine3.18/amd64/Dockerfile"
-              },
-              {
-                "type": "link",
-                "addDate": 1712715703761,
-                "title": "区域语言与区域语言包对照关系表",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/JCL1101/p/8036771.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1716819462513,
-                "title": "SQL Server事务遭遇网络异常时的处理机制浅析 - 潇湘隐者 - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/kerrycode/p/7245891.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1721726831755,
-                "title": "Apollo配置中心",
-                "icon": "https://logo.clearbit.com/platfrom-apollo-portal.prod.oe-eks-internal-chn.mkiapp.com",
-                "url": "https://platfrom-apollo-portal.prod.oe-eks-internal-chn.mkiapp.com/marykay/login.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1721727182653,
-                "title": "Apollo配置中心 - CN",
-                "icon": "https://logo.clearbit.com/platfrom-apollo-portal.prod.oe-eks-internal-chn.mkiapp.com",
-                "url": "https://platfrom-apollo-portal.prod.oe-eks-internal-chn.mkiapp.com/config.html?#/appid=OE-App-OrderingServices"
-              },
-              {
-                "type": "link",
-                "addDate": 1721727546850,
-                "title": "Dashboards - Grafana - AP",
-                "icon": "https://logo.clearbit.com/grafana.bts-eks-internal-apr.mkapps.com",
-                "url": "https://grafana.bts-eks-internal-apr.mkapps.com/dashboards"
-              },
-              {
-                "type": "link",
-                "addDate": 1724810304895,
-                "title": "MaryKayGlobal",
-                "icon": "https://logo.clearbit.com/mknuget.mkapps.com",
-                "url": "https://mknuget.mkapps.com/feeds/MaryKayGlobal"
-              },
-              {
-                "type": "link",
-                "addDate": 1724988320645,
-                "title": "JoyCoder - 京东推出的AI编程助手 | AI工具集",
-                "icon": "https://logo.clearbit.com/ai-bot.cn",
-                "url": "https://ai-bot.cn/joycoder/"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1698200716894,
-            "title": "消息队列",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1608030498109,
-                "title": "RabbitMQ吞吐量测试-PerfTest上 - 全能程序猿 - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/xinxiucan/p/8041440.html"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1698200830196,
-            "title": "微信小程序",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1623289530087,
-                "title": "subscribeMessage.send | 微信开放文档",
-                "icon": "https://logo.clearbit.com/developers.weixin.qq.com",
-                "url": "https://developers.weixin.qq.com/miniprogram/dev/api-backend/open-api/subscribe-message/subscribeMessage.send.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1612108533988,
-                "title": "小程序代码构成 | 微信开放文档",
-                "icon": "https://logo.clearbit.com/developers.weixin.qq.com",
-                "url": "https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/code.html#JSON-%E9%85%8D%E7%BD%AE"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1698200898588,
-            "title": "Redis",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1617674119514,
-                "title": "Lua脚本在redis分布式锁场景的运用 - 逃离沙漠 - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/demingblog/p/9542124.html#%E9%80%9A%E8%BF%87lua%E8%84%9A%E6%9C%AC%E5%AE%9E%E7%8E%B0%E9%94%81%E9%87%8A%E6%94%BE"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1698202208932,
-            "title": "Github",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1668417485250,
-                "title": "libvips for WebAssembly",
-                "icon": "https://logo.clearbit.com/www.libvips.org",
-                "url": "https://www.libvips.org/2020/09/01/libvips-for-webassembly.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1668418119617,
-                "title": "wasm-vips/src at master · kleisauke/wasm-vips · GitHub",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/kleisauke/wasm-vips/tree/master/src"
-              },
-              {
-                "type": "link",
-                "addDate": 1653462219000,
-                "title": "GitHub - sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/sindresorhus/awesome"
+                "url": "https://blog.csdn.net/csfreebird/article/details/43453197"
               }
             ]
           },
           {
             "type": "link",
-            "addDate": 1521538358000,
-            "title": "Marykay首页",
-            "icon": "https://logo.clearbit.com/uat-site.marykayintouch.com.cn",
-            "url": "https://uat-site.marykayintouch.com.cn/OnlineOrdering/"
-          },
-          {
-            "type": "link",
-            "addDate": 1515119435000,
-            "title": "Promotion Records - All Documents",
-            "icon": "https://logo.clearbit.com/teammk",
-            "url": "http://teammk/projects/EcommerceTeam/_layouts/15/start.aspx#/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fprojects%2FEcommerceTeam%2FShared%20Documents%2FKnowledge%20Base%2FPromotion%2FPromotion%20Records&FolderCTID=0x012000A7DE3FC3FDECB84F8C3E348186070F63&View=%7B0161B3FE%2DEFC3%2D4B0E%2D9A45%2DA4BD35E70D83%7D"
-          },
-          {
-            "type": "link",
-            "addDate": 1526292433000,
-            "title": "Nodejs-OE / IntouchWeb · GitLab",
-            "icon": "https://logo.clearbit.com/git.marykay.com.cn",
-            "url": "https://git.marykay.com.cn/Nodejs-OE/IntouchWeb"
-          },
-          {
-            "type": "link",
-            "addDate": 1562139266000,
-            "title": "HaiTao Order System Detail Design · Thoughts",
-            "icon": "https://logo.clearbit.com/thoughts.teambition.com",
-            "url": "https://thoughts.teambition.com/workspaces/5cdcc5e9df0cc1000126c578/docs/5cf7af02e1b79f00010932a1"
-          },
-          {
-            "type": "link",
-            "addDate": 1553767995000,
-            "title": "玫琳凯之窗员工账号申请",
-            "icon": "https://logo.clearbit.com/support.marykayintouch.com.cn",
-            "url": "https://support.marykayintouch.com.cn/employee/updatepassword"
-          },
-          {
-            "type": "link",
-            "addDate": 1514860047000,
-            "title": "Ordering Dic",
-            "icon": "https://logo.clearbit.com/teammk",
-            "url": "http://teammk/projects/EcommerceTeam/_layouts/15/xlviewer.aspx?id=/projects/EcommerceTeam/Shared%20Documents/Knowledge%20Base/Technical/Basket_objects.xlsx&Source=http%3A%2F%2Fteammk%2Fprojects%2FEcommerceTeam%2FShared%2520Documents%2FForms%2FAllItems%2Easpx%3FRootFolder%3D%252Fprojects%252FEcommerceTeam%252FShared%2520Documents%252FKnowledge%2520Base%252FTechnical%26FolderCTID%3D0x012000A7DE3FC3FDECB84F8C3E348186070F63%26View%3D%257B0161B3FE%252DEFC3%252D4B0E%252D9A45%252DA4BD35E70D83%257D"
-          },
-          {
-            "type": "link",
-            "addDate": 1514882477000,
-            "title": "Team Sharing",
-            "icon": "https://logo.clearbit.com/teamsite",
-            "url": "http://teamsite/sites/it/sam/AP%20ECommcerce/Forms/AllItems.aspx?RootFolder=%2fsites%2fit%2fsam%2fAP+ECommcerce%2fTeam+Management"
-          },
-          {
-            "type": "link",
-            "addDate": 1566283606000,
-            "title": "新标签页",
-            "icon": "https://logo.clearbit.com/newtab",
-            "url": "chrome://newtab/"
-          },
-          {
-            "type": "folder",
-            "addDate": 1639115104061,
-            "title": "Tickets",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1567387713000,
-                "title": "China aws upgrade && downgrade dynamodb for promotion - Self-Service - Confluence",
-                "icon": "https://logo.clearbit.com/wiki.chn.mkcorp.com",
-                "url": "http://wiki.chn.mkcorp.com/pages/viewpage.action?pageId=45846994"
-              },
-              {
-                "type": "link",
-                "addDate": 1567417259000,
-                "title": "UAT压力测试Ticket OO AWS Resource Scaling for July 4th Promotion Peak Time | Catalog Task | ServiceNow",
-                "icon": "https://logo.clearbit.com/marykay.service-now.com",
-                "url": "https://marykay.service-now.com/nav_to.do?uri=%2Fsc_task.do%3Fsys_id%3D2b03f1badbd27fc0760eeae51b96199e%26sysparm_stack%3D%26sysparm_view%3D"
-              },
-              {
-                "type": "link",
-                "addDate": 1567151039000,
-                "title": "Scaling EC2 Instance Change - UAT SQL SERVER",
-                "icon": "https://logo.clearbit.com/marykay.service-now.com",
-                "url": "https://marykay.service-now.com/nav_to.do?uri=%2Fchange_request.do%3Fsys_id%3Dcd42e2c2dbe337c0a0c326aa4b961970%26sysparm_view%3D%26sysparm_domain%3Dnull%26sysparm_domain_scope%3Dnull"
-              },
-              {
-                "type": "link",
-                "addDate": 1569374626000,
-                "title": "China- CHG0050386 - PIM 1.32.1 Data Copy Down Release from PROD to Staging | Change Request | ServiceNow",
-                "icon": "https://logo.clearbit.com/marykay.service-now.com",
-                "url": "https://marykay.service-now.com/nav_to.do?uri=%2Fchange_request.do%3Fsys_id%3D7e591770db6ff380a0c326aa4b9619b5%26sysparm_stack%3D%26sysparm_view%3D"
-              },
-              {
-                "type": "link",
-                "addDate": 1582795268000,
-                "title": "China AWS EC2 Permission(Admin/Remote) request - Self-Service - Confluence",
-                "icon": "https://logo.clearbit.com/wiki.chn.mkcorp.com",
-                "url": "http://wiki.chn.mkcorp.com/pages/viewpage.action?pageId=11509889"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1639115104064,
-            "title": "OAuth",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1569402712000,
-                "title": "https://qa-oauth-mgr.marykay.site/wiki/apis/flow/token_verify",
-                "icon": "https://logo.clearbit.com/qa-oauth-mgr.marykay.site",
-                "url": "https://qa-oauth-mgr.marykay.site/wiki/apis/flow/token_verify"
-              }
-            ]
-          },
-          {
-            "type": "link",
-            "addDate": 1571117984000,
-            "title": "运维日常问题 - 幕布",
-            "icon": "https://logo.clearbit.com/mubu.com",
-            "url": "https://mubu.com/doc2fpPUujhJ1"
-          },
-          {
-            "type": "link",
-            "addDate": 1547005312000,
-            "title": "Teambition · 团队协作工具创导者",
-            "icon": "https://logo.clearbit.com/www.teambition.com",
-            "url": "https://www.teambition.com/organization/5c2f1d177c08180001e84611"
-          },
-          {
-            "type": "link",
-            "addDate": 1583285927000,
-            "title": "AWS 管理控制台",
-            "icon": "https://logo.clearbit.com/console.amazonaws.cn",
-            "url": "https://console.amazonaws.cn/console/home?region=cn-north-1#"
-          },
-          {
-            "type": "link",
-            "addDate": 1589548774000,
-            "title": "小程序简介 | 微信开放文档",
-            "icon": "https://logo.clearbit.com/developers.weixin.qq.com",
-            "url": "https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/#%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%8A%80%E6%9C%AF%E5%8F%91%E5%B1%95%E5%8F%B2"
-          },
-          {
-            "type": "link",
-            "addDate": 1589790724000,
-            "title": "OperationDoc - All Documents",
-            "icon": "https://logo.clearbit.com/teammk",
-            "url": "http://teammk/projects/EcommerceTeam/_layouts/15/start.aspx#/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fprojects%2FEcommerceTeam%2FShared%20Documents%2FKnowledge%20Base%2FOperationDoc&FolderCTID=0x012000A7DE3FC3FDECB84F8C3E348186070F63&View=%7B0161B3FE%2DEFC3%2D4B0E%2D9A45%2DA4BD35E70D83%7D"
-          },
-          {
-            "type": "link",
-            "addDate": 1593495944000,
-            "title": "Intouch Ordering Enhancement - Repos",
-            "icon": "https://logo.clearbit.com/dev.azure.com",
-            "url": "https://dev.azure.com/marykayapac/e-commerce-workshop/_git/Intouch%20Ordering%20Enhancement"
-          },
-          {
-            "type": "link",
-            "addDate": 1599647079831,
-            "title": "China E-Comm Release Documents - All Documents",
-            "icon": "https://logo.clearbit.com/mkcorp.sharepoint.com",
-            "url": "https://mkcorp.sharepoint.com/sites/co-usa-ist-TMEBZbusinessapplicationssupport/Release%20Notes/Forms/AllItems.aspx?viewid=5243cbef-d8ae-4073-b19b-83685bea6d2e&id=%2Fsites%2Fco-usa-ist-TMEBZbusinessapplicationssupport%2FRelease%20Notes%2FChina%20E-Comm%20Release%20Documents"
-          },
-          {
-            "type": "link",
-            "addDate": 1597306126135,
-            "title": "调休文档",
-            "icon": "https://logo.clearbit.com/mkcorp.sharepoint.com",
-            "url": "https://mkcorp.sharepoint.com/sites/mkc_IT/sam/Team%20Sharing/Forms/AllItems.aspx?RootFolder=%2Fsites%2Fmkc%5FIT%2Fsam%2FTeam%20Sharing%2FTeam%20Management&FolderCTID=0x0120007BA714F0A0A13A44B11B544DD916B609&View=%7B352AD8EF%2DE82E%2D4636%2D9042%2DB965ED90EC80%7D"
-          },
-          {
-            "type": "link",
-            "addDate": 1600338236618,
-            "title": "Content CMS",
-            "icon": "https://logo.clearbit.com/contentcms.marykaytools.cn",
-            "url": "https://contentcms.marykaytools.cn/"
-          },
-          {
-            "type": "link",
-            "addDate": 1612338452508,
-            "title": "官网 - QA环境",
-            "icon": "https://logo.clearbit.com/qa-site.marykay.com.cn",
-            "url": "https://qa-site.marykay.com.cn/corporatesite/home/products/10156557"
-          },
-          {
-            "type": "link",
-            "addDate": 1631502182615,
-            "title": "Azure source code Projects - Home",
-            "icon": "https://logo.clearbit.com/dev.azure.com",
-            "url": "https://dev.azure.com/marykayapac/"
-          },
-          {
-            "type": "folder",
-            "addDate": 1694766384039,
-            "title": "ONE AP",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1694069847426,
-                "title": "ONE-AP - Home",
-                "icon": "https://logo.clearbit.com/mkcorp.sharepoint.com",
-                "url": "https://mkcorp.sharepoint.com/sites/ONE-AP?OR=Teams-HL&CT=1694069839375&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIxNDE1LzIzMDgwNDA4NjM2IiwiSGFzRmVkZXJhdGVkVXNlciI6ZmFsc2V9"
-              },
-              {
-                "type": "link",
-                "addDate": 1694766363891,
-                "title": "oneap-app-epass-login-service - Repos",
-                "icon": "https://logo.clearbit.com/dev.azure.com",
-                "url": "https://dev.azure.com/marykayapac/oneap-e-commerce-applications/_git/oneap-app-epass-login-service"
-              },
-              {
-                "type": "link",
-                "addDate": 1695259058590,
-                "title": "Ecommerce Team - 2023 New Market - 所有文档",
-                "icon": "https://logo.clearbit.com/mkcorp.sharepoint.com",
-                "url": "https://mkcorp.sharepoint.com/sites/-ecommerceteam/Shared%20Documents/Forms/AllItems.aspx?viewpath=%2Fsites%2F%2Decommerceteam%2FShared%20Documents%2FForms%2FAllItems%2Easpx&isAscending=true&id=%2Fsites%2F%2Decommerceteam%2FShared%20Documents%2FProject%2F2023%20New%20Market&sortField=LinkFilename&viewid=925ee332%2D4d4f%2D4ffa%2D980a%2Dd69c7edbfcbf"
-              },
-              {
-                "type": "link",
-                "addDate": 1711417647608,
-                "title": "VN MockUI",
-                "icon": "https://logo.clearbit.com/nwhq7m.axshare.com",
-                "url": "https://nwhq7m.axshare.com/#g=1&p=submit_order"
-              },
-              {
-                "type": "link",
-                "addDate": 1711087955537,
-                "title": "ONE-AP - Home",
-                "icon": "https://logo.clearbit.com/mkcorp.sharepoint.com",
-                "url": "https://mkcorp.sharepoint.com/sites/ONE-AP?CT=1711087935228&OR=OWA-NT-Mail&CID=78bb74aa-81d9-fa78-2b17-184f6952c415&WSL=1"
-              },
-              {
-                "type": "link",
-                "addDate": 1711522504104,
-                "title": "oneap-app-epass-management-service -App  LOG",
-                "icon": "https://logo.clearbit.com/mksplunk.chn.mkcorp.com",
-                "url": "http://mksplunk.chn.mkcorp.com/en-US/app/MK_EKS_Dashboard/search?q=search%20index%3D_*%20OR%20index%3D*%20sourcetype%3Dkube%3Acontainer%3Aoneap-app-epass-management-service&sid=1711522431.265515_71871183-D29A-42B7-B9D8-637168F8EDBF&display.page.search.mode=smart&dispatch.sample_ratio=1&earliest=-24h%40h&latest=now"
-              },
-              {
-                "type": "link",
-                "addDate": 1711535354584,
-                "title": "EKS - Dashboards | Splunk 9.1.1",
-                "icon": "https://logo.clearbit.com/mksplunk.chn.mkcorp.com",
-                "url": "http://mksplunk.chn.mkcorp.com/en-US/app/MK_EKS_Dashboard/dashboards"
-              },
-              {
-                "type": "link",
-                "addDate": 1711536945654,
-                "title": "Kong Overview | Splunk 9.1.1",
-                "icon": "https://logo.clearbit.com/mksplunk.chn.mkcorp.com",
-                "url": "http://mksplunk.chn.mkcorp.com/en-US/app/MK_EKS_Dashboard/kong_overview?form.global_time.earliest=-4h%40m&form.global_time.latest=now&form.service_name=*&form.service_uri=*&form.filter=*&form.threshold=5000"
-              },
-              {
-                "type": "link",
-                "addDate": 1711640033772,
-                "title": "github.com/AutoMapper/AutoMapper/commit/94bd958ecda966899e6433b0652a85019e117323.patch",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/AutoMapper/AutoMapper/commit/94bd958ecda966899e6433b0652a85019e117323.patch"
-              },
-              {
-                "type": "link",
-                "addDate": 1713842859772,
-                "title": "Service Consolidation Plan - AP ONE Team - Confluence",
-                "icon": "https://logo.clearbit.com/marykayap.atlassian.net",
-                "url": "https://marykayap.atlassian.net/wiki/spaces/AOT/pages/561774640/Service+Consolidation+Plan"
-              },
-              {
-                "type": "folder",
-                "addDate": 1718617070098,
-                "title": "site",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1718617001579,
-                    "title": "site-rc-back-ap",
-                    "icon": "https://logo.clearbit.com/site-sdm-back.prod.oe-eks-chn.mkiapp.com",
-                    "url": "https://site-sdm-back.prod.oe-eks-chn.mkiapp.com/cn/gate/management?sid=940d3fadc4e443d59ba6bd319701b16d"
-                  }
-                ]
-              },
-              {
-                "type": "folder",
-                "addDate": 1718617107823,
-                "title": "API",
-                "children": []
-              },
-              {
-                "type": "folder",
-                "addDate": 1721642503858,
-                "title": "压测工具",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1721642459628,
-                    "title": "RC DB/EC2 Performance | Splunk 9.1.1",
-                    "icon": "https://logo.clearbit.com/mksplunk.chn.mkcorp.com",
-                    "url": "http://mksplunk.chn.mkcorp.com/en-US/app/MaryKay_SDM/rc_ec2_performance?form.field1.earliest=-60m%40m&form.field1.latest=now&form.env=prod"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1704115917033,
-            "title": "skywalking",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1703690022141,
-                "title": "Skywalking原理篇(二)：Agent 与 OAP 的通信原理_skywalking:通信-CSDN博客",
-                "icon": "https://logo.clearbit.com/blog.csdn.net",
-                "url": "https://blog.csdn.net/wb4927598/article/details/119192841"
-              },
-              {
-                "type": "link",
-                "addDate": 1704342242487,
-                "title": "GitHub - SkyAPM/SkyAPM-dotnet at v1.3.0",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/SkyAPM/SkyAPM-dotnet/tree/v1.3.0"
-              },
-              {
-                "type": "link",
-                "addDate": 1713869605533,
-                "title": "SkyWalking自定义链路跟踪（@Trace和apm-customize-enhance-plugin介绍） - duanxz - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/duanxz/p/15607843.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1713869814005,
-                "title": "通过SkyWalking埋点并上报Go应用数据_可观测链路 OpenTelemetry 版(OpenTelemetry)-阿里云帮助中心",
-                "icon": "https://logo.clearbit.com/help.aliyun.com",
-                "url": "https://help.aliyun.com/zh/opentelemetry/user-guide/reporting-net-application-data-through-skytalking#:~:text=%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95%E4%B8%80%EF%BC%88%E6%8E%A8%E8%8D%90%EF%BC%89%EF%BC%9Adotnet-skyapm%E7%9A%84%E4%BD%9C%E7%94%A8%E5%8F%AA%E6%9C%89%E4%B8%80%E4%B8%AA%EF%BC%8C%E5%8D%B3%E7%94%9F%E6%88%90skyapm-dotnet%20agent%E7%9A%84%E5%B1%9E%E6%80%A7%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%EF%BC%8C%E6%82%A8%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E6%89%8B%E5%8A%A8%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AAskyapm.json%EF%BC%8C%E5%B9%B6%E6%8C%89%E7%85%A7%E4%B8%8A%E6%96%87%E4%B8%AD%E7%9A%84%E6%96%B9%E5%BC%8F%E9%85%8D%E7%BD%AE%E5%B1%9E%E6%80%A7%E3%80%82%20%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95%E4%BA%8C%EF%BC%9A%E4%BD%BF%E7%94%A8dotnet%206.0%E3%80%82,%E9%80%9A%E8%BF%87SkyWalking%E4%B8%BA%E5%BA%94%E7%94%A8%E5%9F%8B%E7%82%B9%E5%B9%B6%E4%B8%8A%E6%8A%A5%E9%93%BE%E8%B7%AF%E6%95%B0%E6%8D%AE%E8%87%B3%E5%8F%AF%E8%A7%82%E6%B5%8B%E9%93%BE%E8%B7%AF%20OpenTelemetry%20%E7%89%88%E5%90%8E%EF%BC%8C%E5%8F%AF%E8%A7%82%E6%B5%8B%E9%93%BE%E8%B7%AF%20OpenTelemetry%20%E7%89%88%E5%8D%B3%E5%8F%AF%E5%BC%80%E5%A7%8B%E7%9B%91%E6%8E%A7%E5%BA%94%E7%94%A8%EF%BC%8C%E6%82%A8%E5%8F%AF%E4%BB%A5%E6%9F%A5%E7%9C%8B%E5%BA%94%E7%94%A8%E6%8B%93%E6%89%91%E3%80%81%E8%B0%83%E7%94%A8%E9%93%BE%E8%B7%AF%E3%80%81%E5%BC%82%E5%B8%B8%E4%BA%8B%E5%8A%A1%E3%80%81%E6%85%A2%E4%BA%8B%E5%8A%A1%E5%92%8CSQL%E5%88%86%E6%9E%90%E7%AD%89%E4%B8%80%E7%B3%BB%E5%88%97%E7%9B%91%E6%8E%A7%E6%95%B0%E6%8D%AE%E3%80%82"
-              },
-              {
-                "type": "link",
-                "addDate": 1713869983869,
-                "title": "Skywalking APM监控系列(一丶.NET5.0+接入Skywalking监听)-腾讯云开发者社区-腾讯云",
-                "icon": "https://logo.clearbit.com/cloud.tencent.com",
-                "url": "https://cloud.tencent.com/developer/article/2346949"
-              },
-              {
-                "type": "link",
-                "addDate": 1713870121861,
-                "title": "Net6 对接 Skywalking - 非著名架构师 - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/jasontarry/p/15891675.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1714093550943,
-                "title": "NET Core微服务之路：实战SkyWalking+Exceptionless体验生产环境下的追踪系统 - 另一个老李 - 博客园",
-                "icon": "https://logo.clearbit.com/www.cnblogs.com",
-                "url": "https://www.cnblogs.com/SteveLee/p/SkyWalking_Exceptionless_Actual_Combat.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1714313662863,
-                "title": "Elasticsearch 优化 · Apache Skywalking Handbook",
-                "icon": "https://logo.clearbit.com/skywalking-handbook.netlify.app",
-                "url": "https://skywalking-handbook.netlify.app/extensions/es_opti"
-              },
-              {
-                "type": "link",
-                "addDate": 1721707477534,
-                "title": "Apache SkyWalking PROD",
-                "icon": "https://logo.clearbit.com/gateway-skywalking.prod.bts-eks-internal-chn.mkiapp.com",
-                "url": "https://gateway-skywalking.prod.bts-eks-internal-chn.mkiapp.com/General-Service/Services"
-              },
-              {
-                "type": "link",
-                "addDate": 1721707526150,
-                "title": "Apache SkyWalking - UAT",
-                "icon": "https://logo.clearbit.com/gateway-skywalking.uat.bts-eks-internal-chn.mkiapp.com",
-                "url": "https://gateway-skywalking.uat.bts-eks-internal-chn.mkiapp.com/General-Service/Services?code=9998612b32b434254c8599cf55d552777c145586"
-              },
-              {
-                "type": "link",
-                "addDate": 1723445046779,
-                "title": "Working...",
-                "icon": "https://logo.clearbit.com/login.microsoftonline.com",
-                "url": "https://login.microsoftonline.com/8eb73218-837f-41d8-a48c-1c1f942b2b2a/saml2?SAMLRequest=fZLdjtMwEIVfJfK9kzjNblOrrVRaISotUG0LF9ygiTPZWuvYwWMv9O1JUn4WASvfjeb4nE9nlgSd6eUmhrO9xy8RKST73Yp9rvNFM2tnOYebRvCyym%2f5QtRzLnLVCGwWqrhpWPIRPWlnV6xIc5bsiSLuLQWwYRjlRcnziovilN%2fKspR58Yklu8FBWwiT6hxCTzLLjHvQNu208o5cG5w12mKqXJdVWM9nhah4NZu3vBRNxaGsFBdKtIuyqIcH2chQsOS18wonkhVrwRCOiQ5ApJ%2fw1%2bTgXXDKmVfaNto%2brFj0VjogTdJChySDksfN2zs5EMn6ukTyzel04If3xxNLNkTox%2fhbZyl26I%2fon7TCD%2fd3v4EiBO5giDKR8d67tAN%2feYSLtsFFdR7hUmWzI6rop9DZFoypQT2y5FtnLMmpmZfz9T9g2Ho5bsupAP9M%2f7IcfqKw9V%2fB%2f513mT3zuZr28t3w8X53cEary1hCB%2bH%2fviIV00Q3vJ1WZbTUo9KtxuGgNsa4r1uPEIbKgo9DY9n66vrnla6%2fAw%3d%3d&RelayState=https%3a%2f%2fuat-oauthlogin-pro.marykayintouch.com.cn%2fSecureAuth%2fCallback%3fclient_id%3dd03993c8-2c48-49bc-bb74-c38e5af2e7d3%26redirect_uri%3dhttps%253a%252f%252fgateway-skywalking.uat.bts-eks-internal-apr.mkapps.com%252f&sso_nonce=AwABEgEAAAACAOz_BQD0_5tmprYCMy2GQJafHbC6f0Idv0z9x_1TqInQacwb-1hrKyjmc9SRY4Yg6-SUfjtzZf4zceGplimcEd7oB4AP1CUgAA&client-request-id=1468c7dd-76a0-424a-9b63-e9b26a30a76f&mscrid=1468c7dd-76a0-424a-9b63-e9b26a30a76f"
-              },
-              {
-                "type": "link",
-                "addDate": 1723445057107,
-                "title": "Apache SkyWalking - APR",
-                "icon": "https://logo.clearbit.com/gateway-skywalking.uat.bts-eks-internal-apr.mkapps.com",
-                "url": "https://gateway-skywalking.uat.bts-eks-internal-apr.mkapps.com/General-Service/Services"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1721097764432,
-            "title": "EKS",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1721097740119,
-                "title": "详解k8s中的liveness和readiness的原理和区别 - xinkun的博客 | Xinkun Blog",
-                "icon": "https://logo.clearbit.com/xuxinkun.github.io",
-                "url": "https://xuxinkun.github.io/2019/10/28/liveness-readiness/"
-              },
-              {
-                "type": "link",
-                "addDate": 1721399291619,
-                "title": "pod日志采集（Fluent Bit方案）-崔亮的博客",
-                "icon": "https://logo.clearbit.com/www.cuiliangblog.cn",
-                "url": "https://www.cuiliangblog.cn/detail/article/75"
-              }
-            ]
+            "addDate": 1694679867739,
+            "title": "Download | DBeaver Community",
+            "icon": "https://logo.clearbit.com/dbeaver.io",
+            "url": "https://dbeaver.io/download/"
           }
         ]
       },
@@ -1578,6 +1578,13 @@
         "children": [
           {
             "type": "link",
+            "addDate": 1538640643000,
+            "title": "Scratch Project Editor - Imagine, Program, Share",
+            "icon": "https://logo.clearbit.com/scratch.mit.edu",
+            "url": "https://scratch.mit.edu/projects/editor/?tip_bar=getStarted"
+          },
+          {
+            "type": "link",
             "addDate": 1622629504296,
             "title": "摹客，让设计和协作更快更简单",
             "icon": "https://logo.clearbit.com/www.mockplus.cn",
@@ -1589,55 +1596,6 @@
             "title": "有什么数学科普知识的书籍推荐的？ - 知乎",
             "icon": "https://logo.clearbit.com/www.zhihu.com",
             "url": "https://www.zhihu.com/question/299692984/answer/1447739161"
-          },
-          {
-            "type": "link",
-            "addDate": 1587628463396,
-            "title": "上海市适龄幼儿入园信息登记系统",
-            "icon": "https://logo.clearbit.com/shrydj.edu.sh.cn",
-            "url": "https://shrydj.edu.sh.cn/"
-          },
-          {
-            "type": "link",
-            "addDate": 1724996399358,
-            "title": "阮一峰的网络日志",
-            "icon": "https://logo.clearbit.com/www.ruanyifeng.com",
-            "url": "https://www.ruanyifeng.com/blog/"
-          },
-          {
-            "type": "link",
-            "addDate": 1725594712464,
-            "title": "Logging infrastructure services",
-            "icon": "https://logo.clearbit.com/services.ebz-chn-qa.mkaws.com",
-            "url": "https://services.ebz-chn-qa.mkaws.com/loggingservices/metadata"
-          }
-        ]
-      },
-      {
-        "type": "folder",
-        "addDate": 1698200586696,
-        "title": "公司",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1595319870808,
-            "title": "Mary Kay Citrix",
-            "icon": "https://logo.clearbit.com/citrix.mkcorp.com.cn",
-            "url": "https://citrix.mkcorp.com.cn/vpn/index.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1583745823429,
-            "title": "Inside MK China",
-            "icon": "https://logo.clearbit.com/insidemkcn",
-            "url": "http://insidemkcn/resource/default.aspx"
-          },
-          {
-            "type": "link",
-            "addDate": 1700122555631,
-            "title": "今日快报",
-            "icon": "https://logo.clearbit.com/win-qg7pvrqemmt.svc-cn-prod.mkaws.com",
-            "url": "https://win-qg7pvrqemmt.svc-cn-prod.mkaws.com/Dashboard/"
           }
         ]
       },
@@ -1664,535 +1622,24 @@
       },
       {
         "type": "folder",
-        "addDate": 1639115104037,
-        "title": "博彦",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1542592026000,
-            "title": "博彦邮箱",
-            "icon": "https://logo.clearbit.com/mail-proxy04.beyondsoft.com",
-            "url": "https://mail-proxy04.beyondsoft.com/"
-          }
-        ]
-      },
-      {
-        "type": "folder",
         "addDate": 1639115104038,
         "title": "MK",
         "children": [
           {
             "type": "link",
-            "addDate": 1513218342000,
-            "title": "借电脑",
-            "icon": "https://logo.clearbit.com/insidemkcn",
-            "url": "http://insidemkcn/itsh/_layouts/EquipmentManage/MkEqManage.aspx"
+            "addDate": 1595319870808,
+            "title": "Mary Kay Citrix",
+            "icon": "https://logo.clearbit.com/citrix.mkcorp.com.cn",
+            "url": "https://citrix.mkcorp.com.cn/vpn/index.html"
           },
           {
             "type": "link",
-            "addDate": 1513217867000,
-            "title": "Requirements - Microsoft Team Foundation Server",
-            "icon": "https://logo.clearbit.com/vs.mkcorp.com",
-            "url": "http://vs.mkcorp.com/tfs/UpgradedCollection/E-Comm-CN/Support/_backlogs/board/Requirements"
-          },
-          {
-            "type": "link",
-            "addDate": 1514534765000,
-            "title": "Development - Microsoft Team Foundation Server",
-            "icon": "https://logo.clearbit.com/vs.mkcorp.com",
-            "url": "http://vs.mkcorp.com/tfs/UpgradedCollection/E-Comm-CN/Support/_dashboards#activeDashboardId=21f1ab16-e363-495d-9399-019e9a2f3a01"
-          },
-          {
-            "type": "link",
-            "addDate": 1523895695000,
-            "title": "nodejs + react + redux 实践",
-            "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-            "url": "https://zhuanlan.zhihu.com/p/24945525"
-          },
-          {
-            "type": "link",
-            "addDate": 1524464063000,
-            "title": "Scratch Project Editor - Imagine, Program, Share",
-            "icon": "https://logo.clearbit.com/scratch.mit.edu",
-            "url": "https://scratch.mit.edu/projects/editor/"
-          },
-          {
-            "type": "link",
-            "addDate": 1525854781000,
-            "title": "RabbitMQ 消息持久化、事务、Publisher的消息确认机制 - CSDN博客",
-            "icon": "https://logo.clearbit.com/blog.csdn.net",
-            "url": "https://blog.csdn.net/u010558660/article/details/53424394"
-          },
-          {
-            "type": "link",
-            "addDate": 1526541956000,
-            "title": "Netkiller Blockchain 手札",
-            "icon": "https://logo.clearbit.com/www.netkiller.cn",
-            "url": "http://www.netkiller.cn/blockchain/"
-          },
-          {
-            "type": "link",
-            "addDate": 1535390554000,
-            "title": "MongoDb LINQ",
-            "icon": "https://logo.clearbit.com/mongodb.github.io",
-            "url": "http://mongodb.github.io/mongo-csharp-driver/2.7/reference/driver/crud/linq/"
-          },
-          {
-            "type": "link",
-            "addDate": 1535391126000,
-            "title": "c# - New alternative for old .net Driver MongoCollection.Save? - Stack Overflow",
-            "icon": "https://logo.clearbit.com/stackoverflow.com",
-            "url": "https://stackoverflow.com/questions/30385232/new-alternative-for-old-net-driver-mongocollection-save"
-          },
-          {
-            "type": "link",
-            "addDate": 1535612349000,
-            "title": "MongoDB upsert操作并发的原子性 - CSDN博客",
-            "icon": "https://logo.clearbit.com/blog.csdn.net",
-            "url": "https://blog.csdn.net/csfreebird/article/details/43453197"
-          },
-          {
-            "type": "link",
-            "addDate": 1535857333000,
-            "title": "DynamoDB · AWS Console",
-            "icon": "https://logo.clearbit.com/console.amazonaws.cn",
-            "url": "https://console.amazonaws.cn/dynamodb/home?region=cn-north-1#tables:selected=cn-north-1-oe-shoppingcart-consultantshoppingcart-prod;tab=metrics"
-          },
-          {
-            "type": "link",
-            "addDate": 1536114183000,
-            "title": "注册表单 ‹ 每天一小时纪录片 — WordPress",
-            "icon": "https://logo.clearbit.com/www.onehourlife.com",
-            "url": "http://www.onehourlife.com/wp-login.php?action=register"
-          },
-          {
-            "type": "link",
-            "addDate": 1538640643000,
-            "title": "Scratch Project Editor - Imagine, Program, Share",
-            "icon": "https://logo.clearbit.com/scratch.mit.edu",
-            "url": "https://scratch.mit.edu/projects/editor/?tip_bar=getStarted"
-          },
-          {
-            "type": "link",
-            "addDate": 1542010660000,
-            "title": "12 月 番茄红素 “订阅”",
-            "icon": "https://logo.clearbit.com/shimo.im",
-            "url": "https://shimo.im/docs/bETzRQKnUbkJrct8"
-          },
-          {
-            "type": "link",
-            "addDate": 1542178470000,
-            "title": "Subscription Order Payment",
-            "icon": "https://logo.clearbit.com/shimo.im",
-            "url": "https://shimo.im/docs/Gom0QUbVOUYzbs43/"
-          },
-          {
-            "type": "link",
-            "addDate": 1544088890000,
-            "title": "Ordering Services - DEV",
-            "icon": "https://logo.clearbit.com/services.ebz-chn-dev.mkaws.com",
-            "url": "https://services.ebz-chn-dev.mkaws.com/CustomerOrderingAppServices/metadata/index.html#!/Customer/CustomersProfileGet"
-          },
-          {
-            "type": "link",
-            "addDate": 1546403382000,
-            "title": "GitHub - gostor/awesome-go-storage: A curated list of awesome Go storage projects and libraries",
-            "icon": "https://logo.clearbit.com/github.com",
-            "url": "https://github.com/gostor/awesome-go-storage#file-system"
-          },
-          {
-            "type": "link",
-            "addDate": 1546612941000,
-            "title": "使用环境变量 - AWS Lambda",
-            "icon": "https://logo.clearbit.com/docs.aws.amazon.com",
-            "url": "https://docs.aws.amazon.com/zh_cn/lambda/latest/dg/go-programming-model-env-variables.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1546831436000,
-            "title": "7 Frameworks To Build A REST API In Go | Nordic APIs |",
-            "icon": "https://logo.clearbit.com/nordicapis.com",
-            "url": "https://nordicapis.com/7-frameworks-to-build-a-rest-api-in-go/"
-          },
-          {
-            "type": "link",
-            "addDate": 1551320997000,
-            "title": "Wiki - Microsoft Team Foundation Server",
-            "icon": "https://logo.clearbit.com/vs.mkcorp.com",
-            "url": "http://vs.mkcorp.com/tfs/UpgradedCollection/E-Comm-CN/Support/_dashboards#activeDashboardId=2c9df63b-6405-4774-b589-04ad5785e871"
-          },
-          {
-            "type": "link",
-            "addDate": 1552902397000,
-            "title": "Ordering Reference",
-            "icon": "https://logo.clearbit.com/shimo.im",
-            "url": "https://shimo.im/docs/M8ClJEpLtZcMdcqs/read"
-          },
-          {
-            "type": "link",
-            "addDate": 1554802171000,
-            "title": "AdminLTE 2 | Morris.js Charts",
-            "icon": "https://logo.clearbit.com/adminlte.io",
-            "url": "https://adminlte.io/themes/AdminLTE/pages/charts/morris.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1554803115000,
-            "title": "AdminLTE - Admin Template & Simple Dashboard | ThemeQuarry",
-            "icon": "https://logo.clearbit.com/themequarry.com",
-            "url": "https://themequarry.com/theme/adminlte-admin-template-simple-dashboard-ASFEDA82"
-          },
-          {
-            "type": "link",
-            "addDate": 1560154826000,
-            "title": "使用 umi 改进 dva 项目开发 · Issue #66 · sorrycc/blog",
-            "icon": "https://logo.clearbit.com/github.com",
-            "url": "https://github.com/sorrycc/blog/issues/66"
-          },
-          {
-            "type": "link",
-            "addDate": 1560154834000,
-            "title": "umi + dva，完成用户管理的 CURD 应用 · Issue #62 · sorrycc/blog",
-            "icon": "https://logo.clearbit.com/github.com",
-            "url": "https://github.com/sorrycc/blog/issues/62"
+            "addDate": 1700122555631,
+            "title": "今日快报",
+            "icon": "https://logo.clearbit.com/win-qg7pvrqemmt.svc-cn-prod.mkaws.com",
+            "url": "https://win-qg7pvrqemmt.svc-cn-prod.mkaws.com/Dashboard/"
           }
         ]
-      },
-      {
-        "type": "folder",
-        "addDate": 1639115104050,
-        "title": "GO",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1550731429000,
-            "title": "一、 go 语言编写 grpc 微服务实例 - lihao19910921的专栏 - CSDN博客",
-            "icon": "https://logo.clearbit.com/blog.csdn.net",
-            "url": "https://blog.csdn.net/lihao19910921/article/details/80166399"
-          },
-          {
-            "type": "link",
-            "addDate": 1550731440000,
-            "title": "二、go-kit 与 grpc 结合开发微服务 - lihao19910921的专栏 - CSDN博客",
-            "icon": "https://logo.clearbit.com/blog.csdn.net",
-            "url": "https://blog.csdn.net/lihao19910921/article/details/80166422"
-          },
-          {
-            "type": "link",
-            "addDate": 1551348381000,
-            "title": "golang的interface剖析 - qqwx - 博客园",
-            "icon": "https://logo.clearbit.com/www.cnblogs.com",
-            "url": "https://www.cnblogs.com/qqmomery/p/6298771.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1558675801000,
-            "title": "(7条消息)一键解决 go get golang.org/x 包失败 - weixin_34186931的博客 - CSDN博客",
-            "icon": "https://logo.clearbit.com/blog.csdn.net",
-            "url": "https://blog.csdn.net/weixin_34186931/article/details/88316328"
-          },
-          {
-            "type": "link",
-            "addDate": 1558682404000,
-            "title": "https://goproxy.io",
-            "icon": "https://logo.clearbit.com/goproxy.io",
-            "url": "https://goproxy.io/"
-          },
-          {
-            "type": "link",
-            "addDate": 1558936518000,
-            "title": "字母大小写转换工具_懒人工具箱",
-            "icon": "https://logo.clearbit.com/tool.lanrentuku.com",
-            "url": "http://tool.lanrentuku.com/daxiaoxie/"
-          },
-          {
-            "type": "link",
-            "addDate": 1559179382000,
-            "title": "Ebiz Projects - All Documents",
-            "icon": "https://logo.clearbit.com/teammk",
-            "url": "http://teammk/projects/EcommerceTeam/_layouts/15/start.aspx#/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2fprojects%2fEcommerceTeam%2fShared%20Documents%2fKnowledge%20Base%2fEbiz%20Projects&FolderCTID=0x012000A7DE3FC3FDECB84F8C3E348186070F63"
-          },
-          {
-            "type": "link",
-            "addDate": 1559787170000,
-            "title": "未命名文件 - ProcessOn",
-            "icon": "https://logo.clearbit.com/www.processon.com",
-            "url": "https://www.processon.com/apps/59a586c4e4b063c756f8e3cc"
-          }
-        ]
-      },
-      {
-        "type": "folder",
-        "addDate": 1639115104054,
-        "title": "DEVOPS",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1513849575000,
-            "title": "(OLD)Jenkins",
-            "icon": "https://logo.clearbit.com/10.216.202.18",
-            "url": "http://10.216.202.18/login?from=/job/OE/job/DEV/job/Build_CustomerService/"
-          },
-          {
-            "type": "link",
-            "addDate": 1563848084000,
-            "title": "Firewall-Port-Test",
-            "icon": "https://logo.clearbit.com/10.216.202.18",
-            "url": "http://10.216.202.18/user/jinc/my-views/view/all/job/Platform/job/Self-Service/job/Firewall-Port-Test/"
-          },
-          {
-            "type": "link",
-            "addDate": 1543802777000,
-            "title": "NEW-All [OE] [Jenkins] ",
-            "icon": "https://logo.clearbit.com/10.216.212.98",
-            "url": "http://10.216.212.98/job/OE/"
-          },
-          {
-            "type": "link",
-            "addDate": 1563929865000,
-            "title": "All [DevOps] [Jenkins]",
-            "icon": "https://logo.clearbit.com/10.216.202.18",
-            "url": "http://10.216.202.18/job/DevOps/"
-          },
-          {
-            "type": "link",
-            "addDate": 1555393481000,
-            "title": "Lumos | Dashboard",
-            "icon": "https://logo.clearbit.com/lumos.cn-north-1.mkdeploy.io",
-            "url": "http://lumos.cn-north-1.mkdeploy.io:8080/aws/ec2"
-          },
-          {
-            "type": "link",
-            "addDate": 1513218215000,
-            "title": "IP Query | Splunk",
-            "icon": "https://logo.clearbit.com/mksplunk.chn.mkcorp.com",
-            "url": "http://mksplunk.chn.mkcorp.com/en-US/app/search/ip_query?earliest=0&latest=&form.ec2name=ordering-api"
-          },
-          {
-            "type": "link",
-            "addDate": 1513218052000,
-            "title": "OE Log Search | Splunk 6.4.3",
-            "icon": "https://logo.clearbit.com/mksplunk.chn.mkcorp.com",
-            "url": "http://mksplunk.chn.mkcorp.com/en-US/app/MaryKay_OE/search"
-          },
-          {
-            "type": "link",
-            "addDate": 1572574267000,
-            "title": "Pivotal PCF Non PROD",
-            "icon": "https://logo.clearbit.com/login.sys.non-prod.pcf.mkc.io",
-            "url": "https://login.sys.non-prod.pcf.mkc.io/login"
-          },
-          {
-            "type": "link",
-            "addDate": 1573117441000,
-            "title": "Pivotal - PROD",
-            "icon": "https://logo.clearbit.com/login.sys.pcf.mkc.io",
-            "url": "https://login.sys.pcf.mkc.io/login"
-          },
-          {
-            "type": "link",
-            "addDate": 1573098197000,
-            "title": "Create AWS Security Group request (China/APAC) - Self-Service - Confluence",
-            "icon": "https://logo.clearbit.com/wiki.chn.mkcorp.com",
-            "url": "http://wiki.chn.mkcorp.com/pages/viewpage.action?pageId=26968237"
-          },
-          {
-            "type": "link",
-            "addDate": 1573429941000,
-            "title": "L7ASGScaleOut+In [Platform » Operations » Service-Management » Layer7] [Jenkins]",
-            "icon": "https://logo.clearbit.com/10.216.202.18",
-            "url": "http://10.216.202.18/job/Platform/job/Operations/job/Service-Management/job/Layer7/job/L7ASGScaleOut+In/"
-          },
-          {
-            "type": "link",
-            "addDate": 1573429989000,
-            "title": "L7InstanceTypeModification [Platform » Operations » Service-Management » Layer7] [Jenkins]",
-            "icon": "https://logo.clearbit.com/10.216.202.18",
-            "url": "http://10.216.202.18/job/Platform/job/Operations/job/Service-Management/job/Layer7/job/L7InstanceTypeModification/"
-          },
-          {
-            "type": "link",
-            "addDate": 1573436210000,
-            "title": "Browse NuGet Feed: MaryKayGlobal",
-            "icon": "https://logo.clearbit.com/mknuget.mkcorp.com",
-            "url": "http://mknuget.mkcorp.com/feeds/MaryKayGlobal"
-          },
-          {
-            "type": "link",
-            "addDate": 1578030512000,
-            "title": "TCP Check",
-            "icon": "https://logo.clearbit.com/10.216.202.18",
-            "url": "http://10.216.202.18/job/DevOps/job/TCP-Check/build?delay=0sec"
-          },
-          {
-            "type": "link",
-            "addDate": 1579153223000,
-            "title": "RITM0194779 - Database Data Change Request | Requested Item | ServiceNow",
-            "icon": "https://logo.clearbit.com/marykay.service-now.com",
-            "url": "https://marykay.service-now.com/nav_to.do?uri=%2Fsc_req_item.do%3Fsys_id%3D97186e44dbcac098760eeae51b96192a%26sysparm_stack%3D%26sysparm_view%3D"
-          },
-          {
-            "type": "link",
-            "addDate": 1582594743000,
-            "title": "Home page loading... | ServiceNow",
-            "icon": "https://logo.clearbit.com/marykay.service-now.com",
-            "url": "https://marykay.service-now.com/nav_to.do?uri=%2Fhome_splash.do%3Fsysparm_direct%3Dtrue"
-          },
-          {
-            "type": "link",
-            "addDate": 1582594761000,
-            "title": "申请Layer 7 账号",
-            "icon": "https://logo.clearbit.com/marykay.service-now.com",
-            "url": "https://marykay.service-now.com/nav_to.do?uri=%2Fhome.do%3F"
-          },
-          {
-            "type": "link",
-            "addDate": 1589773159000,
-            "title": "Jenkins Get ServiceList",
-            "icon": "https://logo.clearbit.com/10.216.202.18",
-            "url": "http://10.216.202.18/job/OE/job/Tools/job/Get-ServiceList/build?delay=0sec"
-          },
-          {
-            "type": "link",
-            "addDate": 1589795117000,
-            "title": "WindowsServiceOperation [OE] [Jenkins]",
-            "icon": "https://logo.clearbit.com/10.216.212.98",
-            "url": "http://10.216.212.98/job/OE/job/WindowsServiceOperation/"
-          },
-          {
-            "type": "link",
-            "addDate": 1596615895854,
-            "title": "跨域踩坑经验总结（内涵：跨域知识科普） - 凝雨 - Yun",
-            "icon": "https://logo.clearbit.com/ningyu1.github.io",
-            "url": "https://ningyu1.github.io/site/post/92-cors-ajax/#options"
-          },
-          {
-            "type": "link",
-            "addDate": 1598247098140,
-            "title": "Configure Fiddler | Progress Telerik Fiddler",
-            "icon": "https://logo.clearbit.com/docs.telerik.com",
-            "url": "https://docs.telerik.com/fiddler/Configure-Fiddler/Tasks/ConfigureFiddler"
-          },
-          {
-            "type": "link",
-            "addDate": 1601174530177,
-            "title": "UAT-PROD_IISPool_Recyle_国庆简易版 [OE » Tools] [Jenkins]",
-            "icon": "https://logo.clearbit.com/jenkins.cn-north-1.mkdeploy.io",
-            "url": "http://jenkins.cn-north-1.mkdeploy.io/job/OE/job/Tools/job/UAT-PROD_IISPool_Recyle_%E5%9B%BD%E5%BA%86%E7%AE%80%E6%98%93%E7%89%88/"
-          },
-          {
-            "type": "link",
-            "addDate": 1616480959078,
-            "title": "0x80070057_百度搜索",
-            "icon": "https://logo.clearbit.com/www.baidu.com",
-            "url": "http://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=0x80070057%20&fenlei=256&oq=%2526%252339%253B0x80070057&rsv_pq=c211938e0009cd78&rsv_t=9cf5a0JR77mADgtR7TQTIAx2XE1Erk8eRnpo5ifdiTK1MW2%2Bce9n41hddR8&rqlang=cn&rsv_dl=tb&rsv_enter=1&rsv_btype=t&inputT=479&rsv_sug3=4&rsv_sug1=4&rsv_sug7=100&rsv_sug2=0&rsv_sug4=1143"
-          },
-          {
-            "type": "link",
-            "addDate": 1623393903128,
-            "title": "Jenkins",
-            "icon": "https://logo.clearbit.com/jenkins2.cn-north-1.mkdeploy.io",
-            "url": "http://jenkins2.cn-north-1.mkdeploy.io/job/Devops/job/Restart_jobexecutor_EC2/build?delay=0sec"
-          },
-          {
-            "type": "link",
-            "addDate": 1624286091262,
-            "title": "Restart_jobexecutor_EC2 [Devops] [Jenkins]",
-            "icon": "https://logo.clearbit.com/jenkins2.cn-north-1.mkdeploy.io",
-            "url": "http://jenkins2.cn-north-1.mkdeploy.io/job/Devops/job/Restart_jobexecutor_EC2/"
-          },
-          {
-            "type": "link",
-            "addDate": 1629352205352,
-            "title": "在线大小写转换-BeJSON.com",
-            "icon": "https://logo.clearbit.com/www.bejson.com",
-            "url": "https://www.bejson.com/convert/uplowercase/"
-          }
-        ]
-      },
-      {
-        "type": "link",
-        "addDate": 1546873295000,
-        "title": "docs/README.md at master · gpmgo/docs · GitHub",
-        "icon": "https://logo.clearbit.com/github.com",
-        "url": "https://github.com/gpmgo/docs/blob/master/zh-CN/README.md"
-      },
-      {
-        "type": "link",
-        "addDate": 1548666419000,
-        "title": "TLS Support — RabbitMQ",
-        "icon": "https://logo.clearbit.com/www.rabbitmq.com",
-        "url": "http://www.rabbitmq.com/ssl.html#dotnet-client"
-      },
-      {
-        "type": "link",
-        "addDate": 1550212681000,
-        "title": "protobuf3 环境配置与编译 - steven的专栏 - CSDN博客",
-        "icon": "https://logo.clearbit.com/blog.csdn.net",
-        "url": "https://blog.csdn.net/yeness/article/details/53783455"
-      },
-      {
-        "type": "link",
-        "addDate": 1551683336000,
-        "title": "分布式任务调度平台XXL-JOB",
-        "icon": "https://logo.clearbit.com/www.xuxueli.com",
-        "url": "http://www.xuxueli.com/xxl-job/#/"
-      },
-      {
-        "type": "link",
-        "addDate": 1552369843000,
-        "title": "www.google.com",
-        "icon": "https://logo.clearbit.com/marykay.service-now.com",
-        "url": "https://marykay.service-now.com/navpage.do"
-      },
-      {
-        "type": "folder",
-        "addDate": 1639115104082,
-        "title": "AWS",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1630032884018,
-            "title": "Getting started with Amazon Elasticsearch Service - Amazon Elasticsearch Service",
-            "icon": "https://logo.clearbit.com/docs.aws.amazon.com",
-            "url": "https://docs.aws.amazon.com/elasticsearch-service/latest/developerguide/es-gsg.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1630033189788,
-            "title": "What is Amazon Elasticsearch Service? - Amazon Elasticsearch Service",
-            "icon": "https://logo.clearbit.com/docs.aws.amazon.com",
-            "url": "https://docs.aws.amazon.com/elasticsearch-service/latest/developerguide/what-is-amazon-elasticsearch-service.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1709713816823,
-            "title": "aws-doc-sdk-examples/dotnetv3/dynamodb at main · awsdocs/aws-doc-sdk-examples · GitHub",
-            "icon": "https://logo.clearbit.com/github.com",
-            "url": "https://github.com/awsdocs/aws-doc-sdk-examples/tree/main/dotnetv3/dynamodb#code-examples"
-          },
-          {
-            "type": "link",
-            "addDate": 1710326662156,
-            "title": "海淘配置&运维 · Thoughts",
-            "icon": "https://logo.clearbit.com/thoughts.teambition.com",
-            "url": "https://thoughts.teambition.com/workspaces/5cdcc5e9df0cc1000126c578/docs/64b9fdcb2dc2990001cf8f91#64c35c4267f07a00128614cb"
-          }
-        ]
-      },
-      {
-        "type": "link",
-        "addDate": 1644551460502,
-        "title": "Jenkins",
-        "icon": "https://logo.clearbit.com/jenkins2.cn-north-1.mkdeploy.io",
-        "url": "http://jenkins2.cn-north-1.mkdeploy.io/job/OE/job/WindowsServiceOperation/build?delay=0sec"
-      },
-      {
-        "type": "link",
-        "addDate": 1653014228803,
-        "title": "My Apps",
-        "icon": "https://logo.clearbit.com/myapplications.microsoft.com",
-        "url": "https://myapplications.microsoft.com/"
       },
       {
         "type": "folder",
@@ -2212,29 +1659,8 @@
             "title": "CNPM Binaries Mirror",
             "icon": "https://logo.clearbit.com/registry.npmmirror.com",
             "url": "https://registry.npmmirror.com/binary.html?path=chromedriver/"
-          },
-          {
-            "type": "link",
-            "addDate": 1684983323881,
-            "title": "Cloud Foundry",
-            "icon": "https://logo.clearbit.com/login.sys.non-prod.pcf.mkc.io",
-            "url": "https://login.sys.non-prod.pcf.mkc.io/"
           }
         ]
-      },
-      {
-        "type": "link",
-        "addDate": 1683419571790,
-        "title": "新闻直播频道_突发新闻直播_视频直播在线观看_看看新闻网",
-        "icon": "https://logo.clearbit.com/live.kankanews.com",
-        "url": "https://live.kankanews.com/huikan/"
-      },
-      {
-        "type": "link",
-        "addDate": 1693831849218,
-        "title": "LIVE: Latest News Headlines and Events l ABC News Live - YouTube",
-        "icon": "https://logo.clearbit.com/www.youtube.com",
-        "url": "https://www.youtube.com/watch?v=OOtxXPaQvoM"
       },
       {
         "type": "folder",
@@ -2259,66 +1685,17 @@
       },
       {
         "type": "folder",
-        "addDate": 1694679881763,
-        "title": "DB",
+        "addDate": 1727234814631,
+        "title": "区块链",
         "children": [
           {
             "type": "link",
-            "addDate": 1694679867739,
-            "title": "Download | DBeaver Community",
-            "icon": "https://logo.clearbit.com/dbeaver.io",
-            "url": "https://dbeaver.io/download/"
+            "addDate": 1526541956000,
+            "title": "Netkiller Blockchain 手札",
+            "icon": "https://logo.clearbit.com/www.netkiller.cn",
+            "url": "http://www.netkiller.cn/blockchain/"
           }
         ]
-      }
-    ]
-  },
-  {
-    "type": "folder",
-    "addDate": 1722835971233,
-    "title": "其他收藏夹",
-    "children": [
-      {
-        "type": "link",
-        "addDate": 1704690031663,
-        "title": "Image Splitter - TinyWow",
-        "icon": "https://logo.clearbit.com/tinywow.com",
-        "url": "https://tinywow.com/image/split"
-      },
-      {
-        "type": "link",
-        "addDate": 1709287421141,
-        "title": "设置 Hive 表来运行 Hive 命令 - Amazon EMR",
-        "icon": "https://logo.clearbit.com/docs.amazonaws.cn",
-        "url": "https://docs.amazonaws.cn/emr/latest/ReleaseGuide/EMR_Interactive_Hive.html"
-      }
-    ]
-  },
-  {
-    "type": "folder",
-    "addDate": 1726584158858,
-    "title": "常用地址",
-    "children": [
-      {
-        "type": "link",
-        "addDate": 1726584158867,
-        "title": "InsideMKCN",
-        "icon": "https://logo.clearbit.com/mkcorp.sharepoint.com",
-        "url": "https://mkcorp.sharepoint.com/sites/insidemkcn/SiteAssets/page/resource.aspx"
-      },
-      {
-        "type": "link",
-        "addDate": 1726584158867,
-        "title": "OA",
-        "icon": "https://logo.clearbit.com/ecology-mkcorp.msappproxy.net",
-        "url": "https://ecology-mkcorp.msappproxy.net/"
-      },
-      {
-        "type": "link",
-        "addDate": 1726584158867,
-        "title": "员工订单（内网访问）",
-        "icon": "https://logo.clearbit.com/eorder.chn.mkcorp.com",
-        "url": "https://eorder.chn.mkcorp.com/h5/orderApp/orderApp/"
       }
     ]
   }
